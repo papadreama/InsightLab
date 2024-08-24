@@ -13,7 +13,7 @@ And welcome to my published working notes. This is a space where I share notes r
 ## Upcoming Workshops + Talks
 
 
-## Areas of Interest
+## Areas of Interest + MOCs
 - [[Teaching and Learning]]
 - [[Meditation]]
 - [[Music]]

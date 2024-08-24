@@ -1,0 +1,3 @@
+- [Meditation Is More Than Either Stress Relief or Enlightenment](Meditation%20Is%20More%20Than%20Either%20Stress%20Relief%20or%20Enlightenment.md)
+- [Mindfulness and Creativity Implications for Thinking and Learning](Mindfulness%20and%20Creativity%20Implications%20for%20Thinking%20and%20Learning.md)
+- [Are we morally obligated to meditate?](https://www.vox.com/future-perfect/2020/1/10/21013234/meditation-brain-neuroscience-moral-obligation) 
