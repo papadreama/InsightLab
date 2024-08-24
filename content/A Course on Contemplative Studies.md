@@ -17,17 +17,17 @@ I hope that these ideas and practices will serve as tools that you can bring to 
 ## Modules
 
 > [!note]- MODULE 1: Introduction & Motivation
-> #### **Core Ideas**  
-> [[The Laboratory of Self-Inquiry]]  
-> [[Socrates Origin Story and Overcoming Self-Deception]]  
-> [[The Dialectic of Meditation and Contemplation]]  
-> #### **In-Class Activities**
-> [[The I AM Exercise]]: Discussion of *traits* and *roles/groups*  
-> [[The Nine Dot Problem]]  
-> [Six Anchors Meditation](Six%20Anchors%20Meditation.md)  
-> [The Well Meditation](The%20Well%20Meditation.md)  
-> #### **Home Practices**
-> [[The Well Meditation]]
+> **Core Ideas**  
+> - [[The Laboratory of Self-Inquiry]]  
+> - [[Socrates Origin Story and Overcoming Self-Deception]]  
+> - [[The Dialectic of Meditation and Contemplation]]  
+> **In-Class Activities**
+> - [[The I AM Exercise]]: Discussion of *traits* and *roles/groups*  
+> - [[The Nine Dot Problem]]  
+> - [Six Anchors Meditation](Six%20Anchors%20Meditation.md)  
+> - [The Well Meditation](The%20Well%20Meditation.md)  
+> **Home Practices**
+> - [[The Well Meditation]]
 
 > [!note]- MODULE 2: Beginner's Mind
 > #### **Core Ideas**
