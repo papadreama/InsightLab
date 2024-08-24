@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "📓 Dimitri Papadopoulos, EdD",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -28,13 +28,13 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
+          light: "#f8f9fa",
+          lightgray: "#e1e3e6",
+          gray: "#b83b3b3",
+          darkgray: "#4d4e4f",
+          dark: "#202121",
           secondary: "#284b63",
-          tertiary: "#84a59d",
+          tertiary: "#4baecc",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
         },
