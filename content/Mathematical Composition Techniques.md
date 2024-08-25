@@ -173,10 +173,11 @@ Now let's do the same for some infinite sets.
 ---
 #### Venn Diagrams
 
-![](app://a8c69739c182fdc7a9d28ad44e271b98f664/Users/dp399/SecondBrain/Assets/Union.png?1672754726000)
+![[Union.png]]
+
 --
 
-![](app://a8c69739c182fdc7a9d28ad44e271b98f664/Users/dp399/SecondBrain/Assets/Intersection.png?1672754733000)
+![[Intersection.png]]
 
 ---
 #### Example
