@@ -22,7 +22,6 @@ Welcome to my published working notes. This is a space where I share notes relat
 - [[Creativity]]
 - [[Philosophy]]
 
-
 ## Tools
 - [[Obsidian]]
 - [[Markdown]]
