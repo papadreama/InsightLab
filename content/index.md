@@ -1,14 +1,17 @@
 ---
 title: Hello!
 ---
-Welcome to my published working notes. This is a space where I share notes related to both my work and to my personal projects and interests. Some of these notes are organized into curricula for [[university courses]] or [[workshops]] I teach, some are collected in [[maps of content]], while (many) others are less well-formed or in-progress. If you find any errors or issues, or have any comments, questions, or concerns, [please let me know!](mailto:papadopoulos.dimitri@gmail.com) 
+Welcome to my published working notes. This is a space where I share notes related to both my work and to my personal projects and interests. Some of these notes are organized into curricula for [[university courses]] or [[workshops]] I teach, some are collected in [[maps of content]], while (many) others are less well-formed or in-progress. My math course notes and materials can be found [here.](https://wealldomath.com) 
 
-[[About Me]]
+If you find any errors or issues, or have any comments, questions, or concerns, [please let me know!](mailto:papadopoulos.dimitri@gmail.com) 
+
+[[About Me]]   
+[Personal Homepage](https://dimitripapadopoulos.com)
 
 ---
 
 ## Courses I'm Currently Teaching
-- [[Calculus]]
+- [Calculus](https://wealldomath.com)
 - [[A Course on Contemplative Studies]]
 
 ## Workshops + Talks
