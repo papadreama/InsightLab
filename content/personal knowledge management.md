@@ -16,7 +16,7 @@ tags:
 
 - The [[Zettelkasten Method]] is an analog PKM system. developed by the prolific German sociologist [Niklas Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann). 
 - Another classic example is the [[commonplace book]] used by thinkers throughout history, like Thomas Jefferson, Isaac Newton, Virginia Woolf, and John Milton. 
-- The [[Bullet Journal Method]] is a "[[mindfulness]] practice disguised as a productivity system," which can certainly serve as a PKM.
+- The [[Bullet Journal Method]] is a "[[Mindfulness]] practice disguised as a productivity system," which can certainly serve as a PKM.
 
 ### Digital
 

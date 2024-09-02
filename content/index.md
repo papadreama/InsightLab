@@ -16,6 +16,7 @@ Welcome to my published working notes. This is a space where I share notes relat
 
 ## Areas of Interest + MOCs
 - [[Teaching and Learning]]
+- [[Contemplative Studies]]
 - [[Meditation]]
 - [[Music]]
 - [[Math]]

@@ -1,0 +1,31 @@
+---
+title: Forms of Self-Deception
+tags:
+  - psychology
+  - perception
+---
+The human brain is incredible. Every microsecond of our waking lives, we take in an astronomical amount of sense data through our eyes, ears, nose, skin, and taste-buds. These sense organs are constantly bombarded with formless clouds of subatomic particles, yet we make sense of and navigate our visual field, and we hear language and music. Somehow, we're able to make sense of it all. 
+## Our Senses Deceive Us
+Consider the [[cocktail party effect]]: 
+
+> Picture yourself in a crowded place where everyone around you is talking simultaneously - it could be a party, a concert, a plane, a sporting event. As we've said, each person talking is ascending vibrations out through the air. So, there are different patterns of vibration moving out from every person in every direction, like a pond with thirty stones dropped into it. And yet, somehow, you are still able to hear and understand what the person next to you is saying. Even more remarkably, you can shift your focus to what someone ten feet away from you is saying. You are able to selectively filter out sounds you don't care about. How is that possible?
+>
+> ![Demo](https://youtu.be/mN--nV61gDo)
+
+This *filtering* is a superpower when it comes to interpreting what our senses take in. How do we know that our brains are always filtering out the right stuff and perceiving patterns that correspond to reality? Check out these auditory illusions: 
+
+![Can you trust your ears - AsapScience](https://youtu.be/kzo45hWXRWU)
+
+We can find similar examples where our other senses deceive us. One of the first massively viral examples was the now infamous blue-black/white-gold dress. 
+
+![[Pasted image 20240830123000.png]]
+
+
+## Negativity Bias and Threat Detection
+The psychologist and meditation teacher, Rick Hanson, says that our minds are like Teflon for good experiences and velcro for bad experiences. Say you're driving to work. As you try to merge onto the highway, someone aggressively cuts you off. Chances are, you'll hold onto that experience. That drive might stand out from your four other days of driving to work that week. But think about that for a moment. Not only on your other four uneventful commutes, but even on the day you were cut off, you likely passed by hundreds or thousands of other drivers who were doing all the right things: they used turn signals, let people merge, drove responsibly, stayed in their lanes. This incredible concert of efforts by thousands of drivers goes unnoticed until something goes wrong.
+
+Why do we do this? Well, evolutionarily, it makes sense for us to move through the world with this bias toward negative experience. Say you're wandering around the African savannah 10,000 years ago. You see a long dark object in the brush beside you and immediately assume it's a snake, so you act accordingly. It turns out that it was just a stick. Still, even if you're wrong 99 times out of 100, or 999 times out of 1000, it's worth making that mistake for the one time it saves your life. 
+
+For the most part, we're still operating with the same set of neural circuitry. We detect threat where there is none.
+## The Rider and the Elephant 
+In Plato's *Phaedrus*, Socrates uses the image of a charioteer pulled by two horses as a metaphor for the human mind. The charioteer represents the intellect, one horse represents rational impulse, and the horse other represents carnal impulse. We might say the horses represent reason and passion. However,  

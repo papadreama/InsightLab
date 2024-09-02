@@ -5,7 +5,7 @@ tags:
 ---
 
 ## Branches/Fields
-- [Ethics](ethics)
+- [Ethics](ethics.md)
 - [Analytic Philosophy](analytic%20philosophy.md)
 - [Epistemology](Epistemology) 
 - [Philosophy of Education](philosophy%20of%20education.md)

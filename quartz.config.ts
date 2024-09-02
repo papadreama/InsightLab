@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://dpapadopoulosnotes.com",
+    baseUrl: "https://www.dpapadopoulosnotes.com",
     ignorePatterns: ["private", "templates", ".obsidian", "**/private", "+", "documents", "slides"],
     defaultDateType: "created",
     theme: {
