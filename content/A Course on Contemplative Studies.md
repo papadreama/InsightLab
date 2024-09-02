@@ -147,7 +147,7 @@ I hope that these ideas and practices will serve as tools that you can bring to 
 > [!abstract]- MODULE 10: Meaning
 > ### **Core Ideas**
 > - [[The Meaning Crisis]] 
-> - [[Defining Meaning]] 
+> - [[On Meaning]] 
 > 
 > ### **In-Class Activities**
 > - [[The Well Meditation]]
