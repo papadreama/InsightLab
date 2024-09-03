@@ -21,141 +21,158 @@ I hope that these ideas and practices will serve as tools that you can bring to 
 > - [[Meditation]] with [[Rapid Logging]] 
 
 > [!abstract]- MODULE 1: Introduction & Motivation
-> ### **Core Ideas**  
+>  **Core Ideas**  
 > - [[The Laboratory of Self-Inquiry]]  
 > - [[Socrates Origin Story and Overcoming Self-Deception]] 
 > - [[Forms of Self-Deception]] 
-> - [[The Dialectic of Meditation and Contemplation]]  
-> ### **In-Class Activities**
+> - [[The Dialectic of Meditation and Contemplation]]
+> 
+>  **In-Class Activities**
 > - [[The I AM Exercise]] 
 > - [[The Nine Dot Problem]]  
 > - [[Six Anchors Meditation]]
 > - [[The Well Meditation]] 
-> ### **Home Practices**
+> 
+>  **Home Practices**
 > - [[The Well Meditation]]
 > - [[Six Anchors Meditation]]
 
 > [!abstract]- MODULE 2: Beginner's Mind
-> ### **Core Ideas**
+>  **Core Ideas**
 > - [[Beginner's Mind]]  
 > - [[Continued Freshness of Appreciation]]  
 > - [[The End of History Fallacy]]  
 > - [[Divergent Thinking]]  
 > - [[Zorba and the Old Man]]  
-> ### **In-Class Activities**
+> 
+>  **In-Class Activities**
 > - [[Mindful Eating]]  
 > - [[Observing the Mind with Fresh Eyes]]  
-> ### **Home Practices**
+> 
+>  **Home Practices**
 > - [[Mindful Eating]] 
 > - [[Novel Observations of Everyday Experiences]] 
  
 > [!abstract]- MODULE 3: Having Mode vs. Being Mode
-> ### **Core Ideas** 
+>  **Core Ideas** 
 > - [[Erich Fromm on Having vs Being]]  
 > - [[Maslow Deficiency vs Being]]  
 > - [[Healthy Authenticity Scale]]  
 > - [[Buffered and Porous Selves by Charles Taylor]] 
-> ### **In-Class Activities**
+> 
+>  **In-Class Activities**
 > - Revisit [The I AM Exercise](The%20I%20AM%20Exercise.md)  
 > - [[Reflection on B-Needs and D-Needs]]  
 > - [[Develop List of Characteristics of B-Love and D-Love]]  
 > - [[Discussion on Having vs Being in Education and Vocation]]  
-> ### **Home Practices** 
+> 
+>  **Home Practices** 
 > - [[Anchor to Open Awareness Practice]]  
 > - [[Field Notes on D-Needs and B-Needs]]  
 > - [[Exploration Scale from SBK]]
 
 > [!abstract]- MODULE 4: Knowledge
-> ### **Core Ideas**
+>  **Core Ideas**
 > - [[Beyond Propositional Knowledge]]
 > - [[Self-Knowledge]] 
-> ### **In-Class Activities**
+> 
+>  **In-Class Activities**
 > - [[Meditation on Thoughts]] 
 > - [[Koan Practice]] 
 > - [[What is it like to be a bat]]  
-> ### **Home Practices**
+> 
+>  **Home Practices**
 > - [[Meditation on Thoughts]] 
 > - [[Koan Practice]] 
 > - [[Reflection on Knowledge that has Changed You]] 
 
 > [!abstract]- MODULE 5: The Conversational Nature of Reality
-> ### **Core Ideas**
+>  **Core Ideas**
 > - [[David Whyte and the Conversational Nature of Reality]] 
 > - [[Thich Nhat Hanh and Interbeing]] 
 > - [[Socratic Method]] 
-> ### **In-Class Activities**
+> 
+>  **In-Class Activities**
 > - [[Mindful Communication Practice]]
 > - [[Interbeing Contemplation]] 
-> ### **Home Practices**
+> 
+>  **Home Practices**
 > - [[Social Interbeing Contemplation]] 
 > - [[Mindful Communication Practice]]
 
 > [!abstract]- MODULE 6: Virtue and Values
-> ### **Core Ideas** 
+>  **Core Ideas** 
 > - [[The Four Immeasurable Abodes]] 
 > - [[Aristotelean Golden Mean]] 
-> ### **In-Class Activities**
+> 
+>  **In-Class Activities**
 > - [[Caring Moment Practice]]
 > - [[Lovingkindness Practice]]
 > - [[Identifying Core Values]] 
-> ### **Home Practices**
+> 
+>  **Home Practices**
 > - [[Caring Moment Practice]]
 > - [[Lovingkindness Practice]]
 > - [[Identifying Core Values]] 
 
 > [!abstract]- MODULE 7: Wonder & Awe
-> ### **Core Ideas**
+>  **Core Ideas**
 > - [[Peak Experiences]] 
 > - [[Beginner's Mind]] 
 > - [[Hermann Hesse on Wonder|Hermann Hesse]] and [[Goethe I am here that I may wonder|> Goethe]] on wonder
 > 	- From [The Marginalian](https://www.themarginalian.org/2023/07/06/> hermann-hesse-wonder-butterflies/) 
 > - [Emerson on nature](https://emersoncentral.com/texts/nature-addresses-lectures/> nature2/chapter1-nature/) 
-> ### **In-Class Activities**
+> 
+>  **In-Class Activities**
 > - [[Discussion of Wonder and Awe]] 
 > - [[Simple Meditation on the Breath]] 
 > 
-> ### **Home Practices**
+>  **Home Practices**
 > - [[Keep a Wonder Log]] 
 > - [[Forrest Bathing]] 
 
 > [!abstract]- MODULE 8: Resistance, Liberation, and Creativity
-> ### **Core Ideas**
+>  **Core Ideas**
 > - [[Steven Pressfield on Resistance]] 
 > - [[What is freedom]]
 > - [[Free-writing and Morning Pages]]
-> ### **In-Class Activities**
+> 
+>  **In-Class Activities**
 > - [[Free-writing and Morning Pages]]
 > - [[Meditation on Resistance]]
 > - [[Letting Be Meditation]] 
-> ### **Home Practices**
+> 
+>  **Home Practices**
 > - [[Meditation on Resistance]]
 > - [[Free-writing and Morning Pages]]
 > - [[Letting Be Meditation]] 
 
 > [!abstract]- MODULE 9: Purpose
-> ### **Core Ideas**
+>  **Core Ideas**
 > - [[Ikigai]] 
-> ### **In-Class Activities**
+> 
+>  **In-Class Activities**
 > - [[Ikigai Activity]] 
 > - [[Analyzing Ikigai Map through Having-Being Lens]] 
 > - [[Self-Inquiry Practices]] 
-> ### **Home Practices**
+> 
+>  **Home Practices**
 > - [[Ikigai Activity]] 
 > - [[Analyzing Ikigai Map through Having-Being Lens]] 
 > - [[Self-Inquiry Practices]] 
 
 > [!abstract]- MODULE 10: Meaning
-> ### **Core Ideas**
+>  **Core Ideas**
 > - [[The Meaning Crisis]] 
 > - [[On Meaning]] 
 > 
-> ### **In-Class Activities**
+>  **In-Class Activities**
 > - [[The Well Meditation]]
 > - [[The I AM Exercise]]
 > - [[Sketching a Personal Ecology of Practices]] 
 > - [[Mattering Purpose and Coherence Map]]  
 > 
-> ### **Home Practices**
+>  **Home Practices**
 > - [[The Well Meditation]]
 > - [[Mattering Purpose and Coherence Map]]  
 > - [[Sketching a Personal Ecology of Practices]]

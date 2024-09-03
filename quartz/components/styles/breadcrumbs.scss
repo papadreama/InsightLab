@@ -1,11 +1,12 @@
 .breadcrumb-container {
-  margin: 0;
-  margin-top: 0.75rem;
+  margin: 0 auto;
   padding: 0;
-  display: flex;
+  display: block;
   flex-direction: row;
   flex-wrap: wrap;
   gap: 0.5rem;
+  font-weight: 300;
+  font-size: 14px;
 }
 
 .breadcrumb-element {
@@ -14,6 +15,10 @@
     margin-left: 0.5rem;
     padding: 0;
     line-height: normal;
+    text-align: center;
+  }
+  a {
+    font-weight: 100
   }
   display: flex;
   flex-direction: row;

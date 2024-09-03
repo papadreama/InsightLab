@@ -33,7 +33,7 @@ interface BreadcrumbOptions {
 }
 
 const defaultOptions: BreadcrumbOptions = {
-  spacerSymbol: "❯",
+  spacerSymbol: "",
   rootName: "Home",
   resolveFrontmatterTitle: true,
   hideOnRoot: true,
@@ -127,7 +127,7 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
         {crumbs.map((crumb, index) => (
           <div class="breadcrumb-element">
             <a href={crumb.path}>{crumb.displayName}</a>
-            {index !== crumbs.length - 1 && <p>{` ${options.spacerSymbol} `}</p>}
+            {index !== crumbs.length - 1}
           </div>
         ))}
       </nav>

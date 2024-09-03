@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "📓 Dimitri Papadopoulos, EdD",
+    pageTitle: "dimitri papadopoulos",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -23,7 +23,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Abril Fatface", 
-        body: "Raleway",
+        body: "Nunito Sans",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -33,19 +33,19 @@ const config: QuartzConfig = {
           gray: "#b83b3b3",
           darkgray: "#4d4e4f",
           dark: "#202121",
-          secondary: "#284b63",
-          tertiary: "#4baecc",
+          secondary: "#128ba6",
+          tertiary: "#15b0d3",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#212123",
+          light: "#1d1e20",
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
+          secondary: "#15b0d3",
+          tertiary: "#128ba6",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",
         },

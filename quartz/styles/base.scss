@@ -15,8 +15,10 @@ section {
   max-width: 100%;
   box-sizing: border-box;
   background-color: var(--light);
-  font-family: var(--bodyFont);
+  font-family: var(--bodyFont), Avenir, sans-serif;
   color: var(--darkgray);
+  font-weight: 200;
+  font-size: 18px;
 }
 
 .text-highlight {
@@ -69,7 +71,7 @@ strong {
 }
 
 a {
-  font-weight: $semiBoldWeight;
+  font-weight: 200;
   text-decoration: none;
   transition: color 0.2s ease;
   color: var(--secondary);
@@ -130,7 +132,7 @@ a {
 
   & article {
     & > h1 {
-      font-size: 2rem;
+      font-size: 2.2rem;
     }
 
     & li:has(> input[type="checkbox"]) {
@@ -165,6 +167,7 @@ a {
       flex: 1;
       display: flex;
       flex-direction: column;
+      margin-bottom: 45px;
       gap: 2rem;
       top: 0;
       width: $sidePanelWidth;
@@ -282,9 +285,9 @@ h4,
 h5,
 h6,
 thead {
-  font-family: var(--headerFont);
+  font-family: var(--headerFont), serif;
   color: var(--dark);
-  font-weight: revert;
+  font-weight: 400;
   margin-bottom: 0;
 
   article > & > a[role="anchor"] {
@@ -313,21 +316,26 @@ h6 {
   }
 }
 
+p.content-meta {
+  text-align: center;
+}
+
 // typography improvements
 h1 {
-  font-size: 1.75rem;
+  // font-size: 2rem;
   margin-top: 2.25rem;
   margin-bottom: 1rem;
+  text-align: center
 }
 
 h2 {
-  font-size: 1.5rem;
+  // font-size: 1.75rem;
   margin-top: 1.9rem;
   margin-bottom: 1rem;
 }
 
 h3 {
-  font-size: 1.35rem;
+  // font-size: 1.5rem;
   margin-top: 1.62rem;
   margin-bottom: 1rem;
 }
