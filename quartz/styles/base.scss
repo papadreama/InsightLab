@@ -224,6 +224,7 @@ a {
   & .center,
   & footer {
     margin-left: auto;
+    text-align: center;
     margin-right: auto;
     width: $pageWidth;
     @media all and (max-width: $fullPageWidth) {

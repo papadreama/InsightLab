@@ -1,4 +1,8 @@
-
+---
+title: A Course on Contemplative Studies
+draft: 
+tags:
+---
 ## Overview
 
 This course is designed for students to explore and develop a personal ecology of contemplative practices aimed at integrating their academic and professional journeys with their personal values and aspirations. Through a comprehensive curriculum that blends theory, practice, and reflection, students will critically examine their values, motivations, mental models, and habits of mind. 
@@ -155,7 +159,7 @@ I hope that these ideas and practices will serve as tools that you can bring to 
 > - [[Analyzing Ikigai Map through Having-Being Lens]] 
 > - [[Self-Inquiry Practices]] 
 > 
-  **Home Practices**
+> **Home Practices**
 > - [[Ikigai Activity]] 
 > - [[Analyzing Ikigai Map through Having-Being Lens]] 
 > - [[Self-Inquiry Practices]] 

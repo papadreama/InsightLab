@@ -1,5 +1,8 @@
-
-# Academic Markdown
+---
+title: Academic Markdown
+draft: 
+tags:
+---
 
 > **Summary**
 > We can use Markdown in conjunction with BibTex to generate academic papers with citations. This is preferable to writing in LaTeX for a few reasons. First, Markdown is much simpler to write and easier to read. Secondly, Markdown is lighter and much more flexible, allowing easy conversion/rendering to PDF, HTML, DOCX, etc. 
