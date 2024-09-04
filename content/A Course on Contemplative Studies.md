@@ -76,6 +76,7 @@ I hope that these ideas and practices will serve as tools that you can bring to 
 
 > [!abstract]- MODULE 4: Knowledge
 >  **Core Ideas**
+>  - [[The Allegory of the Cave]]
 > - [[Beyond Propositional Knowledge]]
 > - [[Self-Knowledge]] 
 > 
