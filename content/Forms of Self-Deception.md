@@ -28,4 +28,29 @@ Why do we do this? Well, evolutionarily, it makes sense for us to move through t
 
 For the most part, we're still operating with the same set of neural circuitry. We detect threat where there is none.
 ## The Rider and the Elephant 
-In Plato's *Phaedrus*, Socrates uses the image of a charioteer pulled by two horses as a metaphor for the human mind. The charioteer represents the intellect, one horse represents rational impulse, and the horse other represents carnal impulse. We might say the horses represent reason and passion. However,  
+In Plato's *Phaedrus*, Socrates uses the image of a charioteer pulled by two horses as a metaphor for the human mind. The charioteer represents the intellect, one horse represents rational impulse, and the horse other represents carnal impulse. We might say the horses represent reason and passion. On this view, we use our will, intellect, discipline, to balance these competing impulses just as the charioteer must coordinate the efforts of their two horses. 
+
+However, as we've learned more about the workings of the mind, a different metaphor emerges: [[the rider and the elephant]]. This metaphor was popularized by Jonathan Haidt in his book [The Happiness Hypothesis](https://www.happinesshypothesis.com/index.html). In this view, the rider represents rational, logical, conscious thought. The rider is the part of us that plans, reasons, and makes decisions based on careful consideration. 
+
+Sitting atop the elephant, the rider holds the reins and wants to guide the elephant. But, the elephant, being orders of magnitude stronger than the rider, is really the one determining the direction and speed. If the elephant *really* wants to go left, the rider can pull to the right all they want - that elephant is still going left. The metaphor highlights the primacy of the emotional/instinctual mind in determining our behaviors and choices. 
+
+Using a metaphor within a metaphor, Haidt describes the job of the rider as being the PR person for the elephant. The elephant goes left, accidentally crushes a park bench, and the rider is doing "damage control" by justifying and excusing the elephant's movements. In other words, while we all like to think that we are rational agents, navigating life with reason, more often than not, it's our emotions that make the first move. Our capacity for reason kicks in after the fact to make sense of those actions. 
+
+Consider one example of this: motivated numeracy.
+### Motivated Numeracy
+We all think we're more rational than we are, and one incredible (and frightening) example of this is *motivated numeracy*. In a 2017 paper, Dan Kahan and his coauthors looked at why public conflict over societal risks persists in the face of compelling and widely accessible scientific evidence. What they found is that not only are people more likely to misinterpret data in favor of their biases and preexisting beliefs, but **those who scored higher on a general numeracy test were _more likely_ to do so!** In other words, the better you are at math, the *more likely* you are to misinterpret data in favor of your biases. And this was true regardless of political orientation. 
+
+Kahan et. al. termed this phenomenon the *Identity-Protective Cognition Thesis.* 
+
+> “The basic premise of identity protective cognition is that culture is prior to fact in the apprehension of societal risks. Culture is not just normatively prior, in the sense that values guide individuals’ decision-making conditional on their perception of facts. It is cognitively prior, in the sense that people’s perception of what the facts are is shaped by their values.”
+
+Because we are deeply social creatures, we prioritize the preservation of our in-groups. This is an emotional thing. This is the elephant moving first and the rider justifying (with their mathematical knowledge, in this case) the behavior of the elephant. 
+
+## Conclusions?
+I want to reiterate that the human brain is incredible - maybe the most amazing, miraculous object in the universe (at least what we've seen of it). But, all of it's incredible capacities do come with some costs. We're amazing at finding patterns, but sometimes that causes us to see patterns where there aren't any. We stereotype and pigeonhole ourselves and others. 
+
+Because the sensory data we take in is processed by the mind, and that processing is almost always invisible to us, we can be fooled by our senses, too. Sometimes this results in innocuous internet feuds over the colors of a dress, but we should be open to the possibility that what we perceive is closer to being a controlled hallucination than an objective truth about the way things are. That's not to say there's no real world, but what we experience is what the mind does with the sensory data available. Our perception of reality is always, and necessarily, incomplete. 
+
+[[Socrates Origin Story and Overcoming Self-Deception|Socrates]] offered one solution to the problem of self-deception. Another comes to us from another part of the world. In the Buddhist tradition, there's a helpful orientation, sometimes called [[Beginner's Mind|beginner's mind.]]
+
+

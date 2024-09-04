@@ -1,10 +1,18 @@
+---
+title: Socrates Origin Story and Overcoming Self-Deception
+tags:
+  - philosophy
+  - wisdom
+  - knowledge
+---
+
 The story of Socrates is a good place to start an exploration of self-knowledge. Consider his "origin story."
 
 In Ancient Greece, there were oracles. One of the most famous of these oracles was the oracle at Delphi (relatively close to Athens), named Pythia. Carved above the entrance to the temple was the phrase, KNOW THYSELF.
 
 ![[gnothisauton.png]]
 
-Oracles were believed to commune with the gods, but the answers they gave were usually cryptic and mysterious. So, you would go to the oracle and ask something like, "should I marry Elton?" and the oracle would respond with something like, "sometimes the snows melt by moonlight." Sure. Like most psychics and horoscopes of today, the answer is abstract enough that it can apply to any situation. 
+Oracles were believed to commune with the gods, but the answers they gave were usually cryptic and mysterious. So, you would go to the oracle and ask something like, "should I marry Elton?" and the oracle would respond, "sometimes the snows melt by moonlight." Sure. Like most psychics and horoscopes of today, the answer is abstract enough that it can apply to any situation. 
 
 One day, Socrates' friends went to the oracle at Delphi and asked, "is there anyone wiser than Socrates?" The oracle's response: "No." She responded in an uncharacteristically clear, unambiguous way: no. This was very strange indeed. 
 
@@ -34,7 +42,7 @@ To summarize:
 - The pursuit of happiness requires the wisdom to know not just what goods to pursue in life, but also the right use of those goods in the service of happiness. 
 	- **Note:** The kind of *happiness* referred to in these philosophical works is not happiness in the everyday sense, but rather *[[eudaimonic happiness]].* 
  
-> "\[E\]udaimonic happiness is not a passing mood or a fleeting feeling of elation but rather **an abiding state of felicity emanating from leading a life that is worth living** – which for the Socrates, Plato, and Aristotle would be a life of virtue or moral excellence." [@dhimanBeingGoodBeing2021] 
+> "\[E\]udaimonic happiness is not a passing mood or a fleeting feeling of elation but rather **an abiding state of felicity emanating from leading a life that is worth living** – which for Socrates, Plato, and Aristotle would be a life of virtue or moral excellence." [@dhimanBeingGoodBeing2021] 
 
 In seeking to show that he was not the wisest person in the land, [[Socrates Origin Story and Overcoming Self-Deception|Socrates]] employed a method (now referred to as the [[Socratic Method]]) to cut through the self-deception of those who claimed to be wise. Another way of describing the Socratic project comes to us from an essay/book by the American philosopher, Harry Frankfort. In his essay, [On Bullshit](https://archive.org/details/on-bullshit-by-harry-frankfurt/page/n21/mode/2up), Frankfurt distinguishes the *liar* from the *bullshit artist* as follows. 
 

@@ -6,7 +6,7 @@ tags:
   - math
 ---
 
-As a associate teaching professor at [Drexel University](https://www.drexel.edu), I teach a variety of courses in [[mathematics]], as well as various interdisciplinary courses for the Honors College. 
+As a associate teaching professor at [Drexel University](https://www.drexel.edu), I teach a variety of courses in mathematics, as well as various interdisciplinary courses for the Honors College. 
 
 ## Math Courses
 - [Calculus](https://wealldomath.com)

@@ -1,9 +1,9 @@
 
 ## Overview
 
-This course is designed for students to explore and develop a personal ecology of contemplative practices aimed at integrating their academic and professional journeys with their personal values and aspirations. Through a comprehensive curriculum that that blends theory, practice, and reflection, students will critically examine their values, motivations, mental models, and habits of mind. 
+This course is designed for students to explore and develop a personal ecology of contemplative practices aimed at integrating their academic and professional journeys with their personal values and aspirations. Through a comprehensive curriculum that blends theory, practice, and reflection, students will critically examine their values, motivations, mental models, and habits of mind. 
 
-Each week, we will focus on different [[contemplative practices]], their historical contexts, theoretical foundations, underlying philosophies, and practical applications in daily life. Our readings will include ancient and modern manuals of practice coupled scientific literature on the benefits of these practice, as well as poetry and selected readings from psychology and philosophy. Students will be encouraged to experiment with [[meditation]], [[journaling]], creative expression, and intentional dialogue as they deepen their self-understanding and define a personal vision of [[self-actualization]].
+Each week, we will focus on different [[contemplative practices]], their historical contexts, theoretical foundations, underlying philosophies, and practical applications in daily life. Our readings will include ancient and modern manuals of practice coupled with scientific literature on the benefits of these practices, as well as poetry and selected readings from psychology and philosophy. Students will be encouraged to experiment with [[meditation]], [[journaling]], creative expression, and intentional dialogue as they deepen their self-understanding and define a personal vision of [[self-actualization]].
 
 ## Structure + Aim
 This course is broken down into ten modules, each containing a few core ideas/concepts, in-class activities and discussions, and home practices. The readings and other media I've included throughout are there to support our explorations by providing useful language, scientific foundations, historical context, and useful frameworks. 
@@ -21,35 +21,34 @@ I hope that these ideas and practices will serve as tools that you can bring to 
 > - [[Meditation]] with [[Rapid Logging]] 
 
 > [!abstract]- MODULE 1: Introduction & Motivation
->  **Core Ideas**  
+> **Core Ideas**  
 > - [[The Laboratory of Self-Inquiry]]  
 > - [[Socrates Origin Story and Overcoming Self-Deception]] 
 > - [[Forms of Self-Deception]] 
 > - [[The Dialectic of Meditation and Contemplation]]
 > 
->  **In-Class Activities**
+> **In-Class Activities**
 > - [[The I AM Exercise]] 
 > - [[The Nine Dot Problem]]  
 > - [[Six Anchors Meditation]]
 > - [[The Well Meditation]] 
 > 
->  **Home Practices**
+> **Home Practices**
 > - [[The Well Meditation]]
 > - [[Six Anchors Meditation]]
 
 > [!abstract]- MODULE 2: Beginner's Mind
->  **Core Ideas**
-> - [[Beginner's Mind]]  
-> - [[Continued Freshness of Appreciation]]  
+> **Core Ideas**
+> - [[Beginner's Mind]] 
 > - [[The End of History Fallacy]]  
 > - [[Divergent Thinking]]  
 > - [[Zorba and the Old Man]]  
 > 
->  **In-Class Activities**
+> **In-Class Activities**
 > - [[Mindful Eating]]  
 > - [[Observing the Mind with Fresh Eyes]]  
 > 
->  **Home Practices**
+> **Home Practices**
 > - [[Mindful Eating]] 
 > - [[Novel Observations of Everyday Experiences]] 
  
@@ -60,13 +59,13 @@ I hope that these ideas and practices will serve as tools that you can bring to 
 > - [[Healthy Authenticity Scale]]  
 > - [[Buffered and Porous Selves by Charles Taylor]] 
 > 
->  **In-Class Activities**
+> **In-Class Activities**
 > - Revisit [The I AM Exercise](The%20I%20AM%20Exercise.md)  
 > - [[Reflection on B-Needs and D-Needs]]  
 > - [[Develop List of Characteristics of B-Love and D-Love]]  
 > - [[Discussion on Having vs Being in Education and Vocation]]  
 > 
->  **Home Practices** 
+> **Home Practices**
 > - [[Anchor to Open Awareness Practice]]  
 > - [[Field Notes on D-Needs and B-Needs]]  
 > - [[Exploration Scale from SBK]]
@@ -76,12 +75,12 @@ I hope that these ideas and practices will serve as tools that you can bring to 
 > - [[Beyond Propositional Knowledge]]
 > - [[Self-Knowledge]] 
 > 
->  **In-Class Activities**
+> **In-Class Activities**
 > - [[Meditation on Thoughts]] 
 > - [[Koan Practice]] 
 > - [[What is it like to be a bat]]  
 > 
->  **Home Practices**
+> **Home Practices**
 > - [[Meditation on Thoughts]] 
 > - [[Koan Practice]] 
 > - [[Reflection on Knowledge that has Changed You]] 
@@ -92,11 +91,11 @@ I hope that these ideas and practices will serve as tools that you can bring to 
 > - [[Thich Nhat Hanh and Interbeing]] 
 > - [[Socratic Method]] 
 > 
->  **In-Class Activities**
+> **In-Class Activities**
 > - [[Mindful Communication Practice]]
 > - [[Interbeing Contemplation]] 
 > 
->  **Home Practices**
+> **Home Practices**
 > - [[Social Interbeing Contemplation]] 
 > - [[Mindful Communication Practice]]
 
@@ -105,12 +104,12 @@ I hope that these ideas and practices will serve as tools that you can bring to 
 > - [[The Four Immeasurable Abodes]] 
 > - [[Aristotelean Golden Mean]] 
 > 
->  **In-Class Activities**
+> **In-Class Activities**
 > - [[Caring Moment Practice]]
 > - [[Lovingkindness Practice]]
 > - [[Identifying Core Values]] 
 > 
->  **Home Practices**
+> **Home Practices**
 > - [[Caring Moment Practice]]
 > - [[Lovingkindness Practice]]
 > - [[Identifying Core Values]] 
@@ -123,11 +122,11 @@ I hope that these ideas and practices will serve as tools that you can bring to 
 > 	- From [The Marginalian](https://www.themarginalian.org/2023/07/06/> hermann-hesse-wonder-butterflies/) 
 > - [Emerson on nature](https://emersoncentral.com/texts/nature-addresses-lectures/> nature2/chapter1-nature/) 
 > 
->  **In-Class Activities**
+> **In-Class Activities**
 > - [[Discussion of Wonder and Awe]] 
 > - [[Simple Meditation on the Breath]] 
 > 
->  **Home Practices**
+> **Home Practices**
 > - [[Keep a Wonder Log]] 
 > - [[Forrest Bathing]] 
 
@@ -137,12 +136,12 @@ I hope that these ideas and practices will serve as tools that you can bring to 
 > - [[What is freedom]]
 > - [[Free-writing and Morning Pages]]
 > 
->  **In-Class Activities**
+> **In-Class Activities**
 > - [[Free-writing and Morning Pages]]
 > - [[Meditation on Resistance]]
 > - [[Letting Be Meditation]] 
 > 
->  **Home Practices**
+> **Home Practices**
 > - [[Meditation on Resistance]]
 > - [[Free-writing and Morning Pages]]
 > - [[Letting Be Meditation]] 
@@ -151,12 +150,12 @@ I hope that these ideas and practices will serve as tools that you can bring to 
 >  **Core Ideas**
 > - [[Ikigai]] 
 > 
->  **In-Class Activities**
+> **In-Class Activities**
 > - [[Ikigai Activity]] 
 > - [[Analyzing Ikigai Map through Having-Being Lens]] 
 > - [[Self-Inquiry Practices]] 
 > 
->  **Home Practices**
+  **Home Practices**
 > - [[Ikigai Activity]] 
 > - [[Analyzing Ikigai Map through Having-Being Lens]] 
 > - [[Self-Inquiry Practices]] 
@@ -166,13 +165,13 @@ I hope that these ideas and practices will serve as tools that you can bring to 
 > - [[The Meaning Crisis]] 
 > - [[On Meaning]] 
 > 
->  **In-Class Activities**
+> **In-Class Activities**
 > - [[The Well Meditation]]
 > - [[The I AM Exercise]]
 > - [[Sketching a Personal Ecology of Practices]] 
 > - [[Mattering Purpose and Coherence Map]]  
 > 
->  **Home Practices**
+> **Home Practices**
 > - [[The Well Meditation]]
 > - [[Mattering Purpose and Coherence Map]]  
 > - [[Sketching a Personal Ecology of Practices]]
