@@ -224,7 +224,6 @@ a {
   & .center,
   & footer {
     margin-left: auto;
-    text-align: center;
     margin-right: auto;
     width: $pageWidth;
     @media all and (max-width: $fullPageWidth) {
@@ -233,6 +232,10 @@ a {
       margin-right: 0;
     }
   }
+}
+
+footer {
+  text-align: center;
 }
 
 .footnotes {
