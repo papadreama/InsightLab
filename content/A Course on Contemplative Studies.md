@@ -34,8 +34,6 @@ I hope that these ideas and practices will serve as tools that you can bring to 
 > **In-Class Activities**
 > - [[The I AM Exercise]] 
 > - [[The Nine Dot Problem]]  
-> - [[Six Anchors Meditation]]
-> - [[The Well Meditation]] 
 > 
 > **Home Practices**
 > - [[The Well Meditation]]
@@ -51,6 +49,8 @@ I hope that these ideas and practices will serve as tools that you can bring to 
 > **In-Class Activities**
 > - [[Mindful Eating]]  
 > - [[Observing the Mind with Fresh Eyes]]  
+> - [[Six Anchors Meditation]]
+> - [[The Well Meditation]] 
 > 
 > **Home Practices**
 > - [[Mindful Eating]] 

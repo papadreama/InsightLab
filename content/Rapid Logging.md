@@ -12,14 +12,16 @@ Rather than doing traditional, long-form journaling, with rapid logging one uses
 These are the bullets I've adopted: 
 
 > [!note] My Bullets
->  `•` tasks
->  `-` notes/ideas/thoughts
->  `o` events
+>  `•` tasks  
+>  `-` notes/ideas/thoughts  
+>  `o` events  
 >  ` =` moods 
+>  `△` practice - e.g., meditation, journaling, guitar, etc.
+>  `~` gratitude
 
 The simpler the better!
 
 ## Getting Started
 If you're interested in trying this out, here's a good video intro by the creator himself:
 
-![Ryder Carol on Rapid Logging](https://www.youtube.com/watch?v=JzYJGRaCaOg)
+![Bullet Journal in 5 Minutes](https://www.youtube.com/watch?v=T_Op4hrLSc4)
