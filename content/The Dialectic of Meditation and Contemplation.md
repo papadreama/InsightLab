@@ -1,1 +1,3 @@
-![[Meditation-Mindfulness-Contemplation.png]] 
+![[Meditation-Mindfulness-Contemplation.png]]  
+
+

@@ -35,7 +35,7 @@ I hope that these ideas and practices will serve as tools that you can bring to 
 > 	- [Short video from BBC4 "Know Thyself"](https://www.youtube.com/watch?v=zccoaL0stbM) 
 > - [[Forms of Self-Deception]] 
 > 	- [NYU Stern Video: Jonathan Haidt: Change the Path, Not the Rider](https://www.youtube.com/watch?v=x3z8brCtMk8) - [The Happiness Hypothesis](https://www.happinesshypothesis.com/index.html)
-> 	- [[The Dialectic of Meditation and Contemplation]]
+> - [[The Dialectic of Meditation and Contemplation]]
 > 
 > **In-Class Activities**
 > - [[The I AM Exercise]] 
