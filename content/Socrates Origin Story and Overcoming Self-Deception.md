@@ -55,3 +55,8 @@ Here's a question worth pondering: *Is it possible to lie to yourself?*
 The cognitive scientist, John Vervaeke, argues that we can't lie to ourselves, we can only bullshit ourselves. To lie is to know the truth and deliberately tell a falsehood so as to deceive. But, if we know a particular truth, telling ourselves a falsehood can't possibly change our minds. If I know that I was at the beach yesterday morning, I can't tell myself that I was at work and suddenly believe it. However, if I cut out of work early to go to the beach, though I can’t lie to myself about the facts (I skipped work and went to the beach instead), I can certainly bullshit my way into justifying skipping out on work, both to myself and to others. 
 
 So, we might say that one form of self-deception, the form Socrates dispelled through probing questioning and intellectual humility, is to bullshit ourselves. While Socrates showed *that* many, if not most, people bullshit their way into believing they are wiser than they are, we can turn to modern approaches to expose *why* we might do so, and highlight some other forms of self-deception. 
+
+## Further Reading
+- [The Euthydemus](https://www.gutenberg.org/files/1598/1598-h/1598-h.htm)
+- [Short video from BBC4 "Know Thyself"](https://www.youtube.com/watch?v=zccoaL0stbM) 
+

@@ -56,3 +56,7 @@ Because the sensory data we take in is processed by the mind, and that processin
 [[Socrates Origin Story and Overcoming Self-Deception|Socrates]] offered one solution to the problem of self-deception. Another comes to us from another part of the world. In the Buddhist tradition, there's a helpful orientation, sometimes called [[Beginner's Mind|beginner's mind.]]
 
 
+## Further Reading
+- [NYU Stern Video: Jonathan Haidt: Change the Path, Not the Rider](https://www.youtube.com/watch?v=x3z8brCtMk8) 
+- [The Happiness Hypothesis](https://www.happinesshypothesis.com/index.html)
+

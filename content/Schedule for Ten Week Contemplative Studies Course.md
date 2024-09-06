@@ -36,15 +36,9 @@ Most of the reading materials and other media are *suggested,* but not required.
 > 
 > - The laboratory of self-inquiry
 > - Socrates origin story and overcoming self-deception
-> 	- [The Euthydemus](https://www.gutenberg.org/files/1598/1598-h/1598-h.htm)
-> 	- [Short video from BBC4 "Know Thyself"](https://www.youtube.com/watch?v=zccoaL0stbM) 
 > - Forms of self-deception
-> 	- [NYU Stern Video: Jonathan Haidt: Change the Path, Not the Rider](https://www.youtube.com/watch?v=x3z8brCtMk8) 
 > - The dialectic of meditation and contemplation
 > - Beginner's mind
-> 	- Prologue to *Zen Mind, Beginner's Mind*
-> 	- The end of history fallacy
-> 	- [TED Talk: The Psychology of Your Future Self](https://www.youtube.com/watch?v=XNbaR54Gpj4&pp=ygULZGFuIGdpbGJlcnQ%3D) 
 > 
 >**In-Class Activities**  
 > - The I AM Exercise
@@ -53,18 +47,15 @@ Most of the reading materials and other media are *suggested,* but not required.
 > - The Well Meditation
 > - Mindful Eating
 > 
->**Home Practices**   
+> **Home Practices**   
 > - **Mindful Eating:** Eat slowly and mindfully without any distractions (no phone, laptop, book, etc.). Bring your whole self to the meal.
-> room, a classroom, walking, talking to a friend, etc.) and jot down at least two novel observations - things you've never noticed before.
-> meditation: thoughts, emotions, sensations, how you feel before vs after, etc. You don't have to share these with me.
+> - **Novel observations of everyday experiences.** 
 > - **Journal:** Spend 15 - 20 minutes summarizing your experience with the practices listed above as well as any reflections on any of the readings and/or class discussions. 
 
 > [!example]- Week 2: Having Mode vs Being Mode
 > 
 > **Core Ideas + Further Reading**
 > - Erich Fromm on Having vs Being
->	- Chapter 1 of *To Have or To Be* by Erich Fromm
->	- *Philosophize This!* podcast episode #150: Fromm on Love
 > - Maslow on Deficiency vs Being
 > - Healthy Authenticity Scale
 > - Buffered and Porous Selves by Charles Taylor
@@ -85,16 +76,9 @@ Most of the reading materials and other media are *suggested,* but not required.
 > 
 > **Core Ideas + Further Reading**
 > - The Allegory of the Cave
-> 	- [After Skool Video: The Profound Meaning of Plato's Allegory of the Cave](https://www.youtube.com/watch?v=4nHj3gL_JN0&t=4s&pp=ygUMcGxhdG8ncyBjYXZl "The Profound Meaning of Plato's Allegory of the Cave") 
 > - Beyond propositional knowledge
-> 	- [Types of Knowledge](https://helpfulprofessor.com/types-of-knowledge/)
-> 	- [What is constructivism?](https://www.youtube.com/watch?v=WduUwOHZES0) 
 > - Qualia + Consciousness
-> 	- ["What is it like to be a bat?" by Thomas Nagel](https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf)
-> 	- [*Philosophize This!* Podcast Episode #179](https://www.philosophizethis.org/podcast/episode-179-consciousness-hard-problem)
 > - Self-Knowledge
-> 	- [Short video from BBC4 "Know Thyself"](https://www.youtube.com/watch?v=zccoaL0stbM) 
-> 	- [Psyche Article: "How to think about consciousness"](https://psyche.co/guides/how-to-think-about-consciousness-from-a-philosophical-viewpoint)
 > 
 > **In-Class Activities**  
 > - Meditation on thoughts
@@ -115,11 +99,7 @@ Most of the reading materials and other media are *suggested,* but not required.
 > 
 >**Core Ideas + Further Reading**
 > - David Whyte's Notion of the Conversational Nature of Reality
-> 	- [On Being Interview with David Whyte](https://www.youtube.com/watch?v=M52I4Hv36hI)
-> 	- [Poem: "Everything is Waiting for You" by David Whyte](https://onbeing.org/poetry/everything-is-waiting-for-you/) 
 > - Thich Nhat Hanh on Interbeing 
-> - [Attachment styles](https://www.youtube.com/watch?v=9idayJyWCWs)  
-> - [TED Talk: What makes a good life?](https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness?subtitle=en) 
 > 
  >**In-Class Activities**  
 > - Mindful communication practice
@@ -135,11 +115,11 @@ Most of the reading materials and other media are *suggested,* but not required.
 
 > [!example]- Week 5: Values + Virtues
 > 
->**Core Ideas + Further Reading**
+> **Core Ideas + Further Reading**
 > - Aristotle's Golden Mean
 > - The Four Immeasurable Abodes w/ near and far enemies
 > 
->**In-Class Activities**  
+> **In-Class Activities**  
 > - Caring Moment Practice
 > - Lovingkindness practice
 > - Identifying core values
@@ -157,8 +137,6 @@ Most of the reading materials and other media are *suggested,* but not required.
 > - Peak experiences
 > - Beginner's mind
 > - Hermann Hesse and Goethe on wonder
-> 	- From [The Marginalian](https://www.themarginalian.org/2023/07/06/hermann-hesse-wonder-butterflies/) 
-> 	- [Emerson on nature](https://emersoncentral.com/texts/nature-addresses-lectures/nature2/chapter1-nature/)
 > 
 > **In-Class Activities**  
 > - Discussion of wonder, awe, and peak experiences
@@ -173,12 +151,10 @@ Most of the reading materials and other media are *suggested,* but not required.
 > [!example]- Week 7: Resistance, Liberation, and Creativity
 > 
 > **Core Ideas + Further Reading**
-> - Steven Pressfield's idea of [*resistance*](https://stevenpressfield.com/2023/09/resistance-is-infallible/) in the creative process
-> 	- [Super short interview](https://www.youtube.com/watch?v=-RhjESIYsuE) 
-> 	- [Long Interview](https://www.youtube.com/watch?v=pfS-z2omj7Q&t=1s&pp=ygUUcmljaCByb2xsIHByZXNzZmllbGQ%3D) 
+> - Steven Pressfield's idea of *resistance*
 > - What is inner-freedom?
-> - [Flow](https://www.youtube.com/watch?v=znwUCNrjpD4) and [wuwei](https://www.youtube.com/watch?v=eeD3wS4fGEY) 
-> - [The inner critic and internal family systems](https://www.youtube.com/watch?v=NUKMNgJB_kw) 
+> - Flow and wuwei
+> - The inner critic and internal family systems
 > 
 > **In-Class Activities**  
 > - Free-writing
@@ -198,9 +174,9 @@ Most of the reading materials and other media are *suggested,* but not required.
 > - Motivational quality continuum
 > 
 > **In-Class Activities**  
-> - [Ikigai Activity](app://obsidian.md/Ikigai%20Activity)
-> - [Analyzing Ikigai Map through Having-Being Lens](app://obsidian.md/Analyzing%20Ikigai%20Map%20through%20Having-Being%20Lens)
-> - [Self-Inquiry Practices](app://obsidian.md/Self-Inquiry%20Practices) 
+> - Ikigai Activity
+> - Analyzing Ikigai Map through Having-Being Lens
+> - Self-Inquiry Practices
 > - Discussion: How do all of the previous themes fit into your conception of purpose in life? 
 > 
 > **Home Practices**   
