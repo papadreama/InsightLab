@@ -31,8 +31,11 @@ I hope that these ideas and practices will serve as tools that you can bring to 
 > **Core Ideas**  
 > - [[The Laboratory of Self-Inquiry]]  
 > - [[Socrates Origin Story and Overcoming Self-Deception]] 
+> 	- [The Euthydemus](https://www.gutenberg.org/files/1598/1598-h/1598-h.htm)
+> 	- [Short video from BBC4 "Know Thyself"](https://www.youtube.com/watch?v=zccoaL0stbM) 
 > - [[Forms of Self-Deception]] 
-> - [[The Dialectic of Meditation and Contemplation]]
+> 	- [NYU Stern Video: Jonathan Haidt: Change the Path, Not the Rider](https://www.youtube.com/watch?v=x3z8brCtMk8) - [The Happiness Hypothesis](https://www.happinesshypothesis.com/index.html)
+> 	- [[The Dialectic of Meditation and Contemplation]]
 > 
 > **In-Class Activities**
 > - [[The I AM Exercise]] 
@@ -45,7 +48,9 @@ I hope that these ideas and practices will serve as tools that you can bring to 
 > [!abstract]- MODULE 2: Beginner's Mind
 > **Core Ideas**
 > - [[Beginner's Mind]] 
+> 	- [[zenmind_prologue.pdf|Prologue to Zen Mind Beginner's Mind]] 
 > - [[The End of History Fallacy]]  
+> 	- [TED Talk: The Psychology of Your Future Self](https://www.youtube.com/watch?v=XNbaR54Gpj4&pp=ygULZGFuIGdpbGJlcnQ%3D) 
 > - [[Divergent Thinking]]  
 > - [[Zorba and the Old Man]]  
 > 
