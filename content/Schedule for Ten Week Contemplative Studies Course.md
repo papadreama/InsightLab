@@ -30,22 +30,21 @@ Each week we'll add a new meditation practice. You should practice the new one a
 > **Reading/Watching/Listening (15 - 30 minutes)**  
 Most of the reading materials and other media are *suggested,* but not required. On the course website, I'll provide summaries for the core ideas that week, which shouldn't take more than 10 - 15 minutes. Beyond that, you can read, watch, or listen to anything that interests you. In other words, don't feel like you have to consume all the suggested media. 
 
-
 > [!example]- Week 1: Introduction, Motivation, and Beginner's Mind
 > 
 >**Core Ideas + Further Reading**  
 > 
 > - The laboratory of self-inquiry
 > - Socrates origin story and overcoming self-deception
-> - [The Euthydemus](https://www.gutenberg.org/files/1598/1598-h/1598-h.htm)
-> - [Short video from BBC4 "Know Thyself"](https://www.youtube.com/watch?v=zccoaL0stbM) 
+> 	- [The Euthydemus](https://www.gutenberg.org/files/1598/1598-h/1598-h.htm)
+> 	- [Short video from BBC4 "Know Thyself"](https://www.youtube.com/watch?v=zccoaL0stbM) 
 > - Forms of self-deception
-> - [NYU Stern Video: Jonathan Haidt: Change the Path, Not the Rider](https://www.youtube.com/watch?v=x3z8brCtMk8) 
+> 	- [NYU Stern Video: Jonathan Haidt: Change the Path, Not the Rider](https://www.youtube.com/watch?v=x3z8brCtMk8) 
 > - The dialectic of meditation and contemplation
 > - Beginner's mind
-> - Prologue to *Zen Mind, Beginner's Mind*
-> - The end of history fallacy
-> - [TED Talk: The Psychology of Your Future Self](https://www.youtube.com/watch?v=XNbaR54Gpj4&pp=ygULZGFuIGdpbGJlcnQ%3D) 
+> 	- Prologue to *Zen Mind, Beginner's Mind*
+> 	- The end of history fallacy
+> 	- [TED Talk: The Psychology of Your Future Self](https://www.youtube.com/watch?v=XNbaR54Gpj4&pp=ygULZGFuIGdpbGJlcnQ%3D) 
 > 
 >**In-Class Activities**  
 > - The I AM Exercise
@@ -152,7 +151,6 @@ Most of the reading materials and other media are *suggested,* but not required.
 > - **Identifying core values:** expand on your work in class
 > - **Journal:** Reflect on you core values and the compassion practices we did this week. For each of your core values, identify two or three ways that you enact (or hope to enact) those values in your life. 
 
-
 > [!example]- Week 6: Wonder + Awe
 > 
 > **Core Ideas + Further Reading**
@@ -160,7 +158,7 @@ Most of the reading materials and other media are *suggested,* but not required.
 > - Beginner's mind
 > - Hermann Hesse and Goethe on wonder
 > 	- From [The Marginalian](https://www.themarginalian.org/2023/07/06/hermann-hesse-wonder-butterflies/) 
-> - - [Emerson on nature](https://emersoncentral.com/texts/nature-addresses-lectures/nature2/chapter1-nature/)
+> 	- [Emerson on nature](https://emersoncentral.com/texts/nature-addresses-lectures/nature2/chapter1-nature/)
 > 
 > **In-Class Activities**  
 > - Discussion of wonder, awe, and peak experiences
