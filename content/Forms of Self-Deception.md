@@ -16,6 +16,8 @@ This *filtering* is a superpower when it comes to interpreting what our senses t
 
 ![Can you trust your ears - AsapScience](https://youtu.be/kzo45hWXRWU)
 
+![Veritasium on Auditory illusions](https://youtube.com/shorts/nhW0FLEqUkk?si=LuqvrBN4gPAQEPVC) 
+
 We can find similar examples where our other senses deceive us. One of the first massively viral examples was the now infamous blue-black/white-gold dress. 
 
 ![[Pasted image 20240830123000.png]]

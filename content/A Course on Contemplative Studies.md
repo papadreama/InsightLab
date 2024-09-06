@@ -123,9 +123,9 @@ I hope that these ideas and practices will serve as tools that you can bring to 
 >  **Core Ideas**
 > - [[Peak Experiences]] 
 > - [[Beginner's Mind]] 
-> - [[Hermann Hesse on Wonder|Hermann Hesse]] and [[Goethe I am here that I may wonder|> Goethe]] on wonder
-> 	- From [The Marginalian](https://www.themarginalian.org/2023/07/06/> hermann-hesse-wonder-butterflies/) 
-> - [Emerson on nature](https://emersoncentral.com/texts/nature-addresses-lectures/> nature2/chapter1-nature/) 
+> - [[Hermann Hesse on Wonder|Hermann Hesse]] and [[Goethe I am here that I may wonder|Goethe]] on wonder
+> 	- From [The Marginalian](https://www.themarginalian.org/2023/07/06/hermann-hesse-wonder-butterflies/) 
+> - [Emerson on nature](https://emersoncentral.com/texts/nature-addresses-lectures/nature2/chapter1-nature/) 
 > 
 > **In-Class Activities**
 > - [[Discussion of Wonder and Awe]] 
