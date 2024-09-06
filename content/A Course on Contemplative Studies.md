@@ -9,6 +9,8 @@ This course is designed for students to explore and develop a personal ecology o
 
 Each week, we will focus on different [[contemplative practices]], their historical contexts, theoretical foundations, underlying philosophies, and practical applications in daily life. Our readings will include ancient and modern manuals of practice coupled with scientific literature on the benefits of these practices, as well as poetry and selected readings from psychology and philosophy. Students will be encouraged to experiment with [[meditation]], [[journaling]], creative expression, and intentional dialogue as they deepen their self-understanding and define a personal vision of [[self-actualization]].
 
+> [[Here's the schedule]] for the ten-week course I'll be teaching Fall 2024
+
 ## Structure + Aim
 This course is broken down into ten modules, each containing a few core ideas/concepts, in-class activities and discussions, and home practices. The readings and other media I've included throughout are there to support our explorations by providing useful language, scientific foundations, historical context, and useful frameworks. 
 
