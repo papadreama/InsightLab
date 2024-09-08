@@ -54,11 +54,11 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
                 )}
               </div>
               <div class="desc">
-                <h3>
+                <h4>
                   <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
                     {title}
                   </a>
-                </h3>
+                </h4>
               </div>
               <ul class="tags">
                 {tags.map((tag) => (
@@ -81,9 +81,10 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
 }
 
 PageList.css = `
-.section h3 {
+.section h4, .section h3{
   margin: 0;
 }
+
 
 .section > .tags {
   margin: 0;

@@ -14,7 +14,7 @@ If you find any errors or issues, or have any comments, questions, or concerns, 
 
 > [!abstract]- Courses I'm Currently Teaching
 > - [Calculus](https://wealldomath.com)
-> - [[A Course on Contemplative Studies]]
+> - [[A Course on Contemplative Practices]] 
 
 > [!example]- Workshops + Talks
 >

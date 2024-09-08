@@ -3,6 +3,7 @@ title: Forms of Self-Deception
 tags:
   - psychology
   - perception
+metadata: true
 ---
 The human brain is incredible. Every microsecond of our waking lives, we take in an astronomical amount of sense data through our eyes, ears, nose, skin, and taste-buds. These sense organs are constantly bombarded with formless clouds of subatomic particles, yet we make sense of and navigate our visual field, and we hear language and music. Somehow, we're able to make sense of it all. 
 ## Our Senses Deceive Us

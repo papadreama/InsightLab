@@ -1,5 +1,5 @@
 ---
-title: A Course on Contemplative Studies
+title: "Toward an Integrated Life: A Course on Contemplative Practices"
 draft: 
 tags:
 ---

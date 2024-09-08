@@ -36,10 +36,20 @@ h1 {
 
   ul.tags {
     justify-content: center;
+    font-size: small
   }
 
   #footer-links {
     font-size: 0.8rem;
     text-justify: auto;
     margin: 0 auto;
+  }
+
+  .recent-ul h3 {
+    font-family: var(--bodyFont), Avenir, sans-serif;
+    font-size: 1rem;
+  }
+
+  .recent-ul p {
+    font-size: small;
   }

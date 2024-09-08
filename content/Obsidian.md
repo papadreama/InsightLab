@@ -1,4 +1,10 @@
-# Obsidian
+---
+title: Obsidian
+draft: 
+metadata: 
+tags:
+---
+
 ## Basics
 - [Documentation](https://help.obsidian.md)
 - [Getting started tutorial (long video)](https://www.youtube.com/watch?v=WqKluXIra70)

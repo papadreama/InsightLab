@@ -3,7 +3,8 @@
 ul.section-ul {
   list-style: none;
   margin-top: 2em;
-  padding-left: 0;
+  padding: 10px;
+  border-radius: 5px
 }
 
 li.section-li {
@@ -24,10 +25,15 @@ li.section-li {
     }
 
     & .meta {
-      margin: 0 1em 0 0;
+      margin: 0 1.5em 0 0;
       opacity: 0.6;
+      line-height: 2.3;
     }
   }
+}
+
+p.meta {
+  font-size: small;
 }
 
 // modifications in popover context

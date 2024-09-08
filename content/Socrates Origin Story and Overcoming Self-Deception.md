@@ -4,6 +4,7 @@ tags:
   - philosophy
   - wisdom
   - knowledge
+metadata: true
 ---
 
 The story of Socrates is a good place to start an exploration of self-knowledge. Consider his "origin story."

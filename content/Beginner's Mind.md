@@ -1,7 +1,8 @@
 ---
 title: Beginner's Mind
 draft: 
-tags:
+tags: 
+metadata: true
 ---
 In some ways, the [[Socrates Origin Story and Overcoming Self-Deception|Socratic approach to wisdom]] is not about *gaining* knowledge, but rather shedding our preconceptions about what we know or what wisdom we think we have. Through systematic dialogue and inquiry, Socrates shed light on the holes in his interlocutors' knowledge. He concluded that the oracle Pythia must have been correct in claiming that he was the wisest of the Greeks simply because he seemed to be the only one around who knew how much wisdom he *lacked.* Meanwhile, all of these so-called experts didn't know how much they didn't know. 
 

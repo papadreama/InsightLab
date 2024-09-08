@@ -1,11 +1,20 @@
 ---
+title: The Laboratory of Self-Inquiry
+draft: 
+metadata: true
+tags:
+  - philosophy
+  - self-knowledge
+  - wisdom
+  - meditation
 related:
   - "[[Meditation]]"
-  - "[[A Course on Contemplative Studies]]"
+  - "[[A Course on Contemplative Practices]]"
   - "[[The Dialectic of Meditation and Contemplation]]"
   - "[[contemplative practices]]"
   - "[[Mindfulness]]"
 ---
+
 In this course, I aim to present a **laboratory of contemplative practices** with which we can conduct a *science of the subjective.* Though *science* usually refers to the systematic study of the natural world (the world we might take to be *outside* our minds) through observation, experimentation, and hypothesis testing, we can apply a similarly systematic approach to analyzing our subjective experience of both ourselves and the world. This is how I like to think about contemplative practices: they are methods of observation and experimentation applied to our first-person experiences. 
 
 One of the simplest, though not necessarily easiest, such tests is to simply sit quietly and observe that machinations of our mind. As [one meditation teacher](https://www.buddhistinquiry.org/article/a-simple-turning-in-place-forty-years-in-the-dharma/) put it, 

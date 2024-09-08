@@ -6,7 +6,7 @@ tags:
 
 
 ## Schedule
-All of the materials for the [[A Course on Contemplative Studies|course]] are organized into ten themes/modules on the course website. 
+All of the materials for the [[A Course on Contemplative Practices|course]] are organized into ten themes/modules on the course website. 
 
 Below is an outline of the course. You'll find summaries of the core concepts and links to suggested media there. 
 
