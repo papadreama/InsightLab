@@ -3,7 +3,8 @@
 // put your custom CSS here!
 
 h1 {
-    font-size: 2.2rem;
+    font-size: 2.75rem;
+    // font-weight: bold;
   }
   
   h2 {
@@ -35,7 +36,7 @@ h1 {
   }
 
   ul.tags {
-    justify-content: center;
+    // justify-content: center;
     font-size: small
   }
 
@@ -53,3 +54,15 @@ h1 {
   .recent-ul p {
     font-size: small;
   }
+
+.banner-img {
+  max-width: 150px;
+}
+
+h2.article-subtitle {
+  margin: 0
+}
+
+sup {
+  font-size: 0.75rem
+}

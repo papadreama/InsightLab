@@ -18,13 +18,12 @@ As we get older, our world seems to become more familiar. We know more about how
 
 Think of how an infant sees the world: everything is new, nothing has labels or names or rules. A child can see a magic wand in a twig, a cave in a pillow fort. Over time we can lose the sense of openness and creativity that comes with not "knowing" so much. 
 
-This has implications for our happiness and wellbeing. Research on [[self-actualization]] has shown that [[Continued Freshness of Appreciation|continued freshness of appreciation]] is one of the defining characteristics of the most self-actualized, happiest, most fulfilled people [^2]. 
+This has implications for our happiness and wellbeing. Research on [[self-actualization]] has shown that [[Continued Freshness of Appreciation|continued freshness of appreciation]] is one of the defining characteristics of the most self-actualized, happiest, most fulfilled people.[^2] 
 
 > **So, the question is, can we cultivate beginner's mind?**
 
-One answer to this question is [[mindfulness]] practice. 
+One answer to this question is [[Mindfulness as Training in Beginners Mind|mindfulness]] practice. 
 
-## Mindfulness as Training in Beginner's Mind
 
 ## Further Reading
 - [[zenmind_prologue.pdf|Prologue to Zen Mind Beginner's Mind]] 

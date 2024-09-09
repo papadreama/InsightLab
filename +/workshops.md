@@ -1,5 +1,0 @@
----
-title: Workshops
-draft: 
-tags:
----

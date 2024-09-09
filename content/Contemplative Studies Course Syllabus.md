@@ -33,7 +33,7 @@ I hope that these ideas and practices will serve as tools that you can bring to 
  *No man can reveal to you aught but that which already lies half asleep in the dawning of your knowledge.* - **Kahlil Gibran**
 
 ## Weekly Practices
-My goal is to keep the work you have to do each week to, *at most*, 2 hours. Though the specific practices, journaling prompts, reflection assignments, and readings will vary, this is a rough outline of our weekly workload.
+My goal is to keep the work (reading and writing) you have to do each week to, *at most*, 2 hours. I would encourage you to practice meditating for at least 10 - 15 minutes a day, but a minimum of five minutes, coupled with other informal mindfulness practice is a great starting point. **Consistency is more important than quantity**. Though the specific practices, journaling prompts, reflection assignments, and readings will vary, this is a rough outline of our weekly workload.
 
 ### Journaling and Other Reflection Assignments (20 - 30 minutes)
 Each week, you'll reflect on the readings, class discussions, and - most importantly - your experiences with the contemplative practices for that week. 

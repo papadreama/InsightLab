@@ -22,7 +22,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Abril Fatface", 
+        header: "Cardo", 
         body: "Nunito Sans",
         code: "IBM Plex Mono",
       },

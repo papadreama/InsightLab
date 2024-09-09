@@ -1,13 +1,15 @@
 ---
-title: "Toward an Integrated Life: A Course on Contemplative Practices"
+title: Toward an Integrated Life
+subtitle: A Course on Contemplative Practices
 draft: 
-tags:
+tags: 
+metadata: true
 ---
-## Overview
 
 > [!todo] Course Materials
 > [[Schedule for Ten Week Contemplative Studies Course|Here's the schedule]] for the ten-week version of this course I'll be teaching Fall 2024. You can also view the [[Contemplative Studies Course Syllabus|full syllabus here]]. 
 
+## Overview
 This course is designed for students to explore and develop a personal ecology of contemplative practices aimed at integrating their academic and professional journeys with their personal values and aspirations. Through a comprehensive curriculum that blends theory, practice, and reflection, students will critically examine their values, motivations, mental models, and habits of mind. 
 
 Each week, we will focus on different [[contemplative practices]], their historical contexts, theoretical foundations, underlying philosophies, and practical applications in daily life. Our readings will include ancient and modern manuals of practice coupled with scientific literature on the benefits of these practices, as well as poetry and selected readings from psychology and philosophy. Students will be encouraged to experiment with [[meditation]], [[journaling]], creative expression, and intentional dialogue as they deepen their self-understanding and define a personal vision of [[self-actualization]].
@@ -21,20 +23,38 @@ I hope that these ideas and practices will serve as tools that you can bring to 
 
 > *No man can reveal to you aught but that which already lies half asleep in the dawning of your knowledge.* - **Kahlil Gibran**
 
+## Weekly Practices
+My goal is to keep the work (reading and writing) you have to do each week to, *at most*, 2 hours. I would encourage you to practice meditating for at least 10 - 15 minutes a day, but a minimum of five minutes, coupled with other informal mindfulness practice is a great starting point. **Consistency is more important than quantity**. Though the specific practices, journaling prompts, reflection assignments, and readings will vary, this is a rough outline of our weekly workload.
 
-> [!abstract]- WEEKLY PRACTICES
-> - [[Reflective Journaling]] 
-> - [[Mindful Pauses]]
-> - [[Meditation]] with [[Rapid Logging]] 
+> [!todo]- Journaling and Other Reflection Assignments (20 - 30 minutes)
+> Each week, you'll reflect on the readings, class discussions, and - most importantly - your experiences with the contemplative practices for that week. 
+
+> [!todo]- Mindful Pauses (1 minute x 5 times/week)
+>  Throughout the week, pause for one minute. Look away from your screen or book, and simply take note of what that moment is like. What are you thinking? What's your general mood? Are you rushing into the next moment? Dwelling on a past experience? Feeling stressed? Joyful? Tired? What do you notice in your environment?
+>
+> Quickly jot down your observations. 
+
+> [!todo]- Meditation + Rapid Logging (At least 5mins x 4 times/week = 20+ mins)
+> Each week we'll add a new meditation practice. You should practice the new one at least once outside of class, and then feel free to mix and match any of the practices from previous weeks. You don't need to do more than five minutes at a time, but I encourage you to try sitting longer. After each meditation, [[Rapid Logging|rapid log]] your reflections on the practice. 
+
+> [!todo]- Contemplations + Reflections (20 - 30 minutes)
+> To complement our meditation practice, we'll have specific contemplations and reflections each week. Because these may be very personal in nature, I will make submission for these optional. We'll discuss these in class, but you can be as specific as is comfortable when reporting on your experiences and findings. 
+
+> [!todo]- Reading/Watching/Listening (15 - 30 minutes)
+> Most of the reading materials and other media are *suggested,* but not required. On the course website, I'll provide summaries for the core ideas that week, which shouldn't take more than 10 - 15 minutes. Beyond that, you can read, watch, or listen to anything that interests you. In other words, don't feel like you have to consume all the suggested media. 
+
+## Modules
+Each module contains summaries of core ideas related to that module's theme, further reading for each core idea, descriptions of in-class practices, and instructions for home practices.  
 
 > [!abstract]- MODULE 1: Introduction & Motivation
 > **Core Ideas**  
-> - [[The Laboratory of Self-Inquiry]]  
-> - [[Socrates Origin Story and Overcoming Self-Deception]] 
+> - [[The Laboratory of Self-Inquiry]]
+> - [[Socrates Origin Story and Overcoming Self-Deception]]
 > 	- [The Euthydemus](https://www.gutenberg.org/files/1598/1598-h/1598-h.htm)
 > 	- [Short video from BBC4 "Know Thyself"](https://www.youtube.com/watch?v=zccoaL0stbM) 
 > - [[Forms of Self-Deception]] 
-> 	- [NYU Stern Video: Jonathan Haidt: Change the Path, Not the Rider](https://www.youtube.com/watch?v=x3z8brCtMk8) - [The Happiness Hypothesis](https://www.happinesshypothesis.com/index.html)
+> 	- [NYU Stern Video: Jonathan Haidt: Change the Path, Not the Rider](https://www.youtube.com/watch?v=x3z8brCtMk8)
+> 	- [The Happiness Hypothesis](https://www.happinesshypothesis.com/index.html)
 > - [[The Dialectic of Meditation and Contemplation]]
 > 
 > **In-Class Activities**
@@ -49,14 +69,13 @@ I hope that these ideas and practices will serve as tools that you can bring to 
 > **Core Ideas**
 > - [[Beginner's Mind]] 
 > 	- [[zenmind_prologue.pdf|Prologue to Zen Mind Beginner's Mind]] 
-> - [[The End of History Fallacy]]  
 > 	- [TED Talk: The Psychology of Your Future Self](https://www.youtube.com/watch?v=XNbaR54Gpj4&pp=ygULZGFuIGdpbGJlcnQ%3D) 
+> - [[Mindfulness as Training in Beginners Mind]] 
 > - [[Divergent Thinking]]  
 > - [[Zorba and the Old Man]]  
 > 
 > **In-Class Activities**
 > - [[Mindful Eating]]  
-> - [[Observing the Mind with Fresh Eyes]]  
 > - [[Six Anchors Meditation]]
 > - [[The Well Meditation]] 
 > 

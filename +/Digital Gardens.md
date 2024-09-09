@@ -8,4 +8,5 @@
 - [Maggie Appleton](https://maggieappleton.com/garden-history?ref=ideasurg.pub)
 - [Nicole van der Hoeven](https://notes.nicolevanderhoeven.com/Fork+My+Brain)
 - [Jackie Zhao](https://jzhao.xyz)
+- [Eileen Z](https://quartz.eilleeenz.com/Quartz-customization-log)
 
