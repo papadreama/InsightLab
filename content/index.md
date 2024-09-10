@@ -1,7 +1,7 @@
 ---
 title: Hello! 👋🏼
 layout: article
-banner: assets/knowthyselfteal.png
+banner: /assets/knowthyselfteal.png
 ---
 Welcome to my published working notes. This is a space where I share notes and writing related to my work, my personal projects, and other interests. Some of these notes are organized into curricula for the [[university courses]] or [[workshops]] I teach, some are collected in [[maps of content]] while (many) others are less well-formed or in-progress. 
 
