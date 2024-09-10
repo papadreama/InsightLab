@@ -26,7 +26,7 @@ One answer to this question is [[Mindfulness as Training in Beginners Mind|mindf
 
 
 ## Further Reading
-- [[zenmind_prologue.pdf|Prologue to Zen Mind Beginner's Mind]] 
+- [[content/assets/zenmind_prologue.pdf|Prologue to Zen Mind Beginner's Mind]] 
 - [TED Talk: The Psychology of Your Future Self](https://www.youtube.com/watch?v=XNbaR54Gpj4&pp=ygULZGFuIGdpbGJlcnQ%3D) 
 
 [^1]: *Suzuki, Shunryu. Zen Mind, Beginner's Mind: Informal Talks on Zen Meditation and Practice (p. 2). Shambhala. Kindle Edition.* 

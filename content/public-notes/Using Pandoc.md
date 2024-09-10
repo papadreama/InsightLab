@@ -5,7 +5,7 @@
 > Pandoc is a universal converter that allows for conversion between all sorts of file formats including markdown, pdf, html, epub, docx, rtf, etc.
 
 ## Markdown
-### [[Yaml]] Options
+### [[YAML]] Options
 - `fontfamily`: set the font family. 
 	- Limited to .sty files
 	- if using another engine, like `xelatex`, this needs to be changed to `mainfont`

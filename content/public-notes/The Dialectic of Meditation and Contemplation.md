@@ -28,7 +28,7 @@ If we take meditation to be simple, bare awareness of the present moment without
 
 Think of it like this. If you don't already, imagine you need glasses to see clearly. Sometimes, you take your glasses off and look at the lenses to see if they're dirty. You then clean off the dirt and put them back on, and things look clearer. **_Meditation_ is like the act of taking off your glasses, looking at the lenses, and cleaning them off[^1]. _Contemplation_ is like the act of putting your glasses back on and seeing how the world looks different.** 
 
-![[Meditation-Mindfulness-Contemplation.png]]  
+![[content/assets/Meditation-Mindfulness-Contemplation.png]]  
 
 
 [^1]: Really, the "cleaning off" happens on its own. Like a snow globe that's been shaken up, you just have to set it down to let the fake snow settle. So it is with the mind. We just have to sit in stillness for a while to let the mind settle. 

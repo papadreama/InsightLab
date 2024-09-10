@@ -22,5 +22,5 @@ I've come to view the tapestry of contemplative practices as a [[The Laboratory 
 
 I prefer a [[The Dialectic of Meditation and Contemplation|dialectic view]] of the relationship between meditation and contemplation. In this view, meditation is like taking off your glasses, looking at the lenses, maybe trying to wipe them clean. Contemplation, on the other hand, is like putting your glasses back on and seeing how your vision of the world (and yourself) has changed. Whether we literally wear glasses or not, we all wear metaphorical glasses in the sense that our experience of reality (regardless of our metaphysical beliefs) is mediated by our senses and the interpretive work that our brains do with that sensory data. 
 
-![[Meditation-Mindfulness-Contemplation.png]] 
+![[content/assets/Meditation-Mindfulness-Contemplation.png]] 
 

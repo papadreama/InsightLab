@@ -10,6 +10,6 @@ As a associate teaching professor at [Drexel University](https://www.drexel.edu)
 
 ## Interdisciplinary Courses
 - [[Math and Politics]]
-- [[Math and Music]]
+- [[math and music]]
 - [[A Course on Contemplative Practices]]
 

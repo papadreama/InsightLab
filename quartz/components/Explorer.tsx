@@ -114,7 +114,12 @@ export default ((userOpts?: Partial<Options>) => {
         </button>
         <div id="explorer-content">
           <ul class="overflow" id="explorer-ul">
-            <ExplorerNode node={fileTree} opts={opts} fileData={fileData} />
+            <li class="explore"><a href="/writing">Blog</a></li>
+            <li class="explore"><a href="/quotes">Collected Quotes</a></li>
+            <li class="explore"><a href="/public-notes/A-Course-on-Contemplative-Practices">Contemplative Studies</a></li>
+            <li class="explore"><a href="/essays">Essays</a></li>
+            <li class="explore"><a href="/public-notes">Notes</a></li>
+            {/* <ExplorerNode node={fileTree} opts={opts} fileData={fileData} /> */}
             <li id="explorer-end" />
           </ul>
         </div>

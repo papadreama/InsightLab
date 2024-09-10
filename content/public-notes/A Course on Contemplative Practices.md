@@ -12,7 +12,7 @@ metadata: true
 ## Overview
 This course is designed for students to explore and develop a personal ecology of contemplative practices aimed at integrating their academic and professional journeys with their personal values and aspirations. Through a comprehensive curriculum that blends theory, practice, and reflection, students will critically examine their values, motivations, mental models, and habits of mind. 
 
-Each week, we will focus on different [[contemplative practices]], their historical contexts, theoretical foundations, underlying philosophies, and practical applications in daily life. Our readings will include ancient and modern manuals of practice coupled with scientific literature on the benefits of these practices, as well as poetry and selected readings from psychology and philosophy. Students will be encouraged to experiment with [[meditation]], [[journaling]], creative expression, and intentional dialogue as they deepen their self-understanding and define a personal vision of [[self-actualization]].
+Each week, we will focus on different [[contemplative practices]], their historical contexts, theoretical foundations, underlying philosophies, and practical applications in daily life. Our readings will include ancient and modern manuals of practice coupled with scientific literature on the benefits of these practices, as well as poetry and selected readings from psychology and philosophy. Students will be encouraged to experiment with [[Meditation]], [[journaling]], creative expression, and intentional dialogue as they deepen their self-understanding and define a personal vision of [[self-actualization]].
 
 ## Structure + Aim
 This course is broken down into ten modules, each containing a few core ideas/concepts, in-class activities and discussions, and home practices. The readings and other media I've included throughout are there to support our explorations by providing useful language, scientific foundations, historical context, and useful frameworks. 
@@ -68,7 +68,7 @@ Each module contains summaries of core ideas related to that module's theme, fur
 > [!abstract]- MODULE 2: Beginner's Mind
 > **Core Ideas**
 > - [[Beginner's Mind]] 
-> 	- [[zenmind_prologue.pdf|Prologue to Zen Mind Beginner's Mind]] 
+> 	- [[content/assets/zenmind_prologue.pdf|Prologue to Zen Mind Beginner's Mind]] 
 > 	- [TED Talk: The Psychology of Your Future Self](https://www.youtube.com/watch?v=XNbaR54Gpj4&pp=ygULZGFuIGdpbGJlcnQ%3D) 
 > - [[Mindfulness as Training in Beginners Mind]] 
 > - [[Divergent Thinking]]  
@@ -87,7 +87,7 @@ Each module contains summaries of core ideas related to that module's theme, fur
 > [!abstract]- MODULE 3: Having Mode vs. Being Mode
 >  **Core Ideas** 
 > - [[Erich Fromm on Having vs Being]]  
-> 	- [[Fromm-Having-Being-Ch1.pdf|Chapter 1 of To Have or To Be]] 
+> 	- [[content/assets/Fromm-Having-Being-Ch1.pdf|Chapter 1 of To Have or To Be]] 
 > 	- [*Philosophize This!* podcast episode #150: Fromm on Love](https://www.philosophizethis.org/podcast/episode-150-the-frankfurt-school-erich-fromm-on-love)
 > - [[Maslow Deficiency vs Being]]  
 > - [[Healthy Authenticity Scale]]  

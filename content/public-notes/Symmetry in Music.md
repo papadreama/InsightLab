@@ -164,11 +164,11 @@ Now let's do the same for some infinite sets.
 --
 #### Venn Diagrams
 
-![Union](Assets/Union.png) 
+![Union](content/assets/Union.png) 
 
 --
 
-![Intersection](Assets/Intersection.png)
+![Intersection](content/assets/Intersection.png)
 
 ---
 #### Example

@@ -11,8 +11,12 @@ Notes for all of my math courses live on a separate site: [We All Do Math](https
 
 If you find any errors or issues, or have any comments, questions, or concerns, [please let me know!](mailto:papadopoulos.dimitri@gmail.com) 
 
-[[About Me]]   
-[Personal Homepage](https://dimitripapadopoulos.com)
+- [[About Me]]   
+- [[writing/index|Blog]]
+- [[public-notes/index|Collected Notes]] 
+- [[quotes/index|Collected Quotes]]
+- [[essays/index|Longer Essays]]
+- [Personal Homepage](https://dimitripapadopoulos.com)
 
 ---
 
@@ -30,7 +34,7 @@ If you find any errors or issues, or have any comments, questions, or concerns, 
 > - [[Music]]
 > - [[Math]]
 > - [[Creativity]]
-> - [[Philosophy]]
+> - [[philosophy]]
 
 > [!note]- Tools
 > - [[Obsidian]]
