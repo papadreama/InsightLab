@@ -3,7 +3,8 @@ title: Planting Seeds in a Digital Garden
 subtitle: Learning to Start Close In
 draft: false
 metadata: true
-tags:
+tags: 
+date: 2024-09-10
 ---
 Getting started is always a challenge - putting down those first words, that first brush stroke, sitting down to meditate, starting a new workout plan. For me, it's when the work is personal, when I feel most vulnerable, that the blank page overwhelms me. Writing like this, for example, is a real slog. 
 
@@ -23,9 +24,18 @@ I've been keeping a personal digital garden of interconnected notes in [[Markdow
 
 Working in this way, with atomized notes, each relating to a single idea, I found I could write with far greater ease than if I considered the project as a whole. The table of contents came together in time, and continues to evolve. 
 
-An image can only begin to form once we start putting paint to canvas. If I had to identify a reason for my struggle to translate free-writing into completed writing, it's that I was still trying to take a top-down approach when it came time to write. That works for some. For me, the bottom-up approach works much better. The results are this site. I hope it's of some value to you. 
+An image can only begin to form once we start putting paint to canvas. If I had to identify a reason for my struggle to translate free-writing into completed writing, it's that I was still trying to take a top-down approach when it came time to write. That works for some. For me, the bottom-up approach works much better. It feels like "starting close in," as [David Whyte writes] in a poem by the same name: 
 
+> Start close in,   
+> don't take the second step  
+> or the third,  
+> start with the first  
+> thing  
+> close in,  
+> the step  
+> you don't want to take.
 
+This site is a result of this experiment with showing my work, planting seeds in a digital garden, and starting close in. I hope it my be of some value to you. 
 
 
 [^1]: This is a personal shortcoming and not a critique of the practice itself.
