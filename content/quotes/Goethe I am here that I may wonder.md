@@ -2,9 +2,11 @@
 type: quote
 date: 2024-09-01
 author: Goethe
-tags: 
+tags:
+  - wonder
 source: 
-related:
+related: 
+quote: I am here, that I may wonder!
 ---
 
-quote:: I am here, that I may wonder!
+I am here, that I may wonder! - Goethe 
