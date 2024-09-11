@@ -1,8 +1,8 @@
 ---
 title: "{{title}}"
-subtitle: 
 draft: true
-metadata: true
 tags: 
-date:
+date: 
+summary: 
+author: d. papadopoulos
 ---
