@@ -31,3 +31,8 @@ Some of these practices might yield really powerful insights. Some might not. Gi
 
 > DISCLAIMER: Though many of the readings and practices in this course come from spiritual/religious traditions, our approach will be entirely empirical and experiential. In the spirit of [[Beginner's Mind|beginner's mind]], the expectation is that you don't take anything at face value, let alone *believe* any of the theoretical foundations or scientific evidence for these practices. Each time we engage in a contemplative practice, we want to simply notice what is present in our experience, be that physical, mental, emotional, or otherwise. Any beliefs or doubts that bubble up become part of the practice of observation.
 
+## One final point
+Although there may be a [positive outcome bias](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5696751/) in scientific research, we learn as much from negative results as we do from positive results. Even in the case of a failed experiment, one in which we neither confirmed nor refuted a hypothesis, we can learn a great deal from an investigation into *why* our experiment failed: Was there an issue with our methods, our execution, or our assumptions? Did we not give it enough time? 
+
+The same is true in contemplative practices. When a particular self-reflection doesn't seem to yield any answers, or when a meditation leaves us feeling more agitated rather than more relaxed, we can still learn from the experience of not getting what we expected, but only if we remain curious. As the meditation teacher Adyashanti says, **the primary task of such practices "is not to answer your questions, but to question your answers."**
+

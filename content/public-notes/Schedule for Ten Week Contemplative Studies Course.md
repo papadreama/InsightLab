@@ -58,7 +58,6 @@ Most of the reading materials and other media are *suggested,* but not required.
 > - Erich Fromm on Having vs Being
 > - Maslow on Deficiency vs Being
 > - Healthy Authenticity Scale
-> - Buffered and Porous Selves by Charles Taylor
 > 
 > **In-Class Activities**  
 > - Revisiting the I AM exercise

@@ -90,7 +90,6 @@ Each module contains summaries of core ideas related to that module's theme, fur
 > 	- [[content/assets/Fromm-Having-Being-Ch1.pdf|Chapter 1 of To Have or To Be]] 
 > 	- [*Philosophize This!* podcast episode #150: Fromm on Love](https://www.philosophizethis.org/podcast/episode-150-the-frankfurt-school-erich-fromm-on-love)
 > - [[Healthy Authenticity Scale]]  
-> - [[Buffered and Porous Selves by Charles Taylor]] 
 > 
 > **In-Class Activities**
 > - Revisit [The I AM Exercise](The%20I%20AM%20Exercise.md)  

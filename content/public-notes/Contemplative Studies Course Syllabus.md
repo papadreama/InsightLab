@@ -86,7 +86,6 @@ Below is an outline of the course. You'll find summaries of the core concepts an
 - Erich Fromm on Having vs Being
 - Maslow on Deficiency vs Being
 - Healthy Authenticity Scale
-- Buffered and Porous Selves by Charles Taylor
 
 #### In-Class Activities  
 - Revisiting the I AM exercise
