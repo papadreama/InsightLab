@@ -1,0 +1,1 @@
+Throughout the week, during your mindful pauses, take note of whether you're in having mode or being mode or whether you're in the midst of satisfying a having need or deficiency need. Record any difference you note in how it feels to be in each mode. 

@@ -24,7 +24,7 @@ I hope that these ideas and practices will serve as tools that you can bring to 
 > *No man can reveal to you aught but that which already lies half asleep in the dawning of your knowledge.* - **Kahlil Gibran**
 
 ## Weekly Practices
-My goal is to keep the work (reading and writing) you have to do each week to, *at most*, 2 hours. I would encourage you to practice meditating for at least 10 - 15 minutes a day, but a minimum of five minutes, coupled with other informal mindfulness practice is a great starting point. **Consistency is more important than quantity**. Though the specific practices, journaling prompts, reflection assignments, and readings will vary, this is a rough outline of our weekly workload.
+I would encourage you to practice meditating for at least 10 - 15 minutes a day, but a minimum of five minutes coupled with other informal mindfulness practice is a great starting point. **Consistency is more important than quantity**. Though the specific practices, journaling prompts, reflection assignments, and readings will vary, this is a rough outline of our weekly workload.
 
 > [!todo]- Journaling and Other Reflection Assignments (20 - 30 minutes)
 > Each week, you'll reflect on the readings, class discussions, and - most importantly - your experiences with the contemplative practices for that week. 
@@ -94,18 +94,18 @@ Each module contains summaries of core ideas related to that module's theme, fur
 > **In-Class Activities**
 > - Revisit [The I AM Exercise](The%20I%20AM%20Exercise.md)  
 > - [[Reflection on B-Needs and D-Needs]]  
-> - [[Develop List of Characteristics of B-Love and D-Love]]  
-> - [[Discussion on Having vs Being in Education and Vocation]]  
+> - [[Light and Dark Triad Test and Reflection]]  
+> - Discussion on Having vs Being in Education and Vocation
 > 
 > **Home Practices**
 > - [[Anchor to Open Awareness Practice]]  
-> - [[Field Notes on D-Needs and B-Needs]]  
-> - [[Exploration Scale from SBK]]
-> - **Journal:** Take 15 - 20 minutes to reflect on your meditation, your having/being or deficiency/being observations, and the results of the exploration scale. 
+> - Listen to or read any of the suggested reading from this week. 
+> - [[Field Notes on Having Mode and Being Mode]]  
+> - **Journal:** Take 15 - 20 minutes to reflect on your meditation, your having/being or deficiency/being observations. 
 
 > [!abstract]- MODULE 4: Knowledge
 >  **Core Ideas**
->  - [[The Allegory of the Cave]]
+>  - [[The Allegory of the Cave]] 
 > 	- [After Skool Video: The Profound Meaning of Plato's Allegory of the Cave](https://www.youtube.com/watch?v=4nHj3gL_JN0&t=4s&pp=ygUMcGxhdG8ncyBjYXZl "The Profound Meaning of Plato's Allegory of the Cave") 
 > - [[Beyond Propositional Knowledge]]
 > 	- [Types of Knowledge](https://helpfulprofessor.com/types-of-knowledge/)

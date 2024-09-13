@@ -1,0 +1,1 @@
+In this meditation, we're going to start with an anchor to find some settling and stability in the mind. Then we'll move into an open awareness practice in which we simply sit, allowing whatever arises to arise, letting go of everything, including our anchor. 

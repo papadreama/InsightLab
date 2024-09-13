@@ -95,9 +95,10 @@ Below is an outline of the course. You'll find summaries of the core concepts an
 
 #### Home Practices   
 - **Meditation:** Anchor to Open Awareness Practice
+- Listen to or read any of the suggested reading from this week. 
 - **Field Notes on Having vs Being/B-Needs vs D-Needs:** Throughout the week, during your mindful pauses, take note of whether you're in having mode or being mode or whether you're in the midst of satisfying a having need or deficiency need.
 - **Complete the Exploration Scale from Scott Barry Kauffman**
-- **Journal:** Take 15 - 20 minutes to reflect on your meditation, your having/being or deficiency/being observations, and the results of the exploration scale. 
+- **Journal:** Take 15 - 20 minutes to reflect on your meditation, your having/being or deficiency/being observations, as well as any reflections on any of the readings and/or class discussions. 
 
 ### Week 3: Knowledge
 
@@ -128,7 +129,7 @@ Below is an outline of the course. You'll find summaries of the core concepts an
 - David Whyte's Notion of the Conversational Nature of Reality
 - Thich Nhat Hanh on Interbeing 
 
- #### In-Class Activities  
+#### In-Class Activities  
 - Mindful communication practice
 - Interbeing Contemplation
 - Social-interbeing Contemplation + Map

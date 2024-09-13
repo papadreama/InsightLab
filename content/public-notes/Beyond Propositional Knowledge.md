@@ -1,3 +1,9 @@
+---
+title: Beyond Propositional Knowledge
+draft: 
+metadata: 
+tags:
+---
 
 
 ## Further Reading
