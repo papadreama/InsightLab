@@ -15,8 +15,8 @@ These are the bullets I've adopted:
 >  `•` tasks  
 >  `-` notes/ideas/thoughts  
 >  `o` events  
->  ` =` moods 
->  `△` practice - e.g., meditation, journaling, guitar, etc.
+>  ` =` moods  
+>  `△` practice - e.g., meditation, journaling, guitar, etc.  
 >  `~` gratitude
 
 The simpler the better!

@@ -13,7 +13,7 @@ Notes for all of my math courses live on a separate site: [We All Do Math](https
 If you find any errors or issues, or have any comments, questions, or concerns, [please let me know!](mailto:papadopoulos.dimitri@gmail.com) 
 
 - [[About Me]]
-- [Personal Homepage + Blog](https://www.dimitripapadopoulos.com)
+- [Personal Homepage](https://www.dimitripapadopoulos.com)
 
 ---
 
