@@ -11,7 +11,7 @@ The story of Socrates is a good place to start an exploration of self-knowledge.
 
 In Ancient Greece, there were oracles. One of the most famous of these oracles was the oracle at Delphi (relatively close to Athens), named Pythia. Carved above the entrance to the temple was the phrase, KNOW THYSELF.
 
-![[content/assets/gnothisauton.png]]
+![[/assets/gnothisauton.png]]
 
 Oracles were believed to commune with the gods, but the answers they gave were usually cryptic and mysterious. So, you would go to the oracle and ask something like, "should I marry Elton?" and the oracle would respond, "sometimes the snows melt by moonlight." Sure. Like most psychics and horoscopes of today, the answer is abstract enough that it can apply to any situation. 
 
