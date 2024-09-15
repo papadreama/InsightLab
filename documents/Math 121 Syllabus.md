@@ -17,7 +17,7 @@ urlcolor: cyan
 
 **Email:** [dp399@drexel.edu](mailto:dp399@drexel.edu)
 
-**Notes and Other Resources: https://wealldomath.com** 
+**Notes and Other Resources:** https://wealldomath.com 
 
 **Office:** Korman 224
 
@@ -63,13 +63,12 @@ We will have two midterm exams and one final exam. The rooms will be announced t
 - Exam 1: Friday, October 18th at 8:00 AM
 - Exam 2: Friday, November 15th at 8:00 AM
 
+**Missed Exams:** Exams **must be taken during the scheduled times.** If you miss an exam for any reason, we will offer a single opportunity to make up that work in week 10. 
+
 ### Quizzes
 You will take a total of six quizzes in class. The lowest quiz grade will be dropped, so your grade will depend on only your five highest quiz grades. 
 
-### Surveys
-As part of a research project, you will be provided two surveys to complete on Blackboard. These are purely voluntary, but we will award you extra credit for completing them. 
-
-\newpage
+**Missed Quizzes:** Quizzes must also be taken during the time scheduled by your instructor. As with exams, we will allow **a maximum of one make-up quiz.** We will schedule common time for make-up quizzes in week 10. 
 
 ## Grading
 The course grade will breakdown as follows:
@@ -80,7 +79,7 @@ The course grade will breakdown as follows:
 | Quizzes              | 15%        |
 | Midterms             | 25% each   |
 | Final                | 25%        |
-| Extra Credit Surveys | + 2%           |
+
 
 
 Letter grades will be assigned as follows: 
