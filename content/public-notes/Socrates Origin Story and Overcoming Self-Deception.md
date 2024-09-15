@@ -60,4 +60,3 @@ So, we might say that one form of self-deception, the form Socrates dispelled th
 ## Further Reading
 - [The Euthydemus](https://www.gutenberg.org/files/1598/1598-h/1598-h.htm)
 - [Short video from BBC4 "Know Thyself"](https://www.youtube.com/watch?v=zccoaL0stbM) 
-
