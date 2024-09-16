@@ -131,40 +131,40 @@ Students should be familiar with the following policies:
 
 ## Schedule
 
-| Week   | Topics                                                     | Notes                              |
-| ------ | ---------------------------------------------------------- | ---------------------------------- |
-| 1      | Intuitive Approach to Limits                               | Mon. 9/23:                         |
-|        | Computing Limits                                           | Classes Begin                      |
-|        |                                                            |                                    |
-| 2      | Limits at Infinity                                         | Mon. 9/30:                         |
-|        | Continuity                                                 | Last day to add/drop               |
-|        | Limits & Continuity of Trig Functions                      |                                    |
-|        |                                                            |                                    |
-| 3      | Tangent Lines & Rates of Change                            | Mon. 10/14:                        |
-|        | The Definition of the Derivative                           | University Holiday                 |
-|        |                                                            | Indigenous People's Day            |
-|        |                                                            |                                    |
-| 4      | Techniques of Differentiation                              | **Fri. 10/18: EXAM 1**             |
-|        | Product & Quotient Rules                                   |                                    |
-|        |                                                            |                                    |
-| 5      | Derivatives of Trig Functions                              |                                    |
-|        | The Chain Rule                                             |                                    |
-|        |                                                            |                                    |
-| 6      | Implicit Differentiation                                   |                                    |
-|        | Derivatives of Logarithmic Functions                       |                                    |
-|        |                                                            |                                    |
-| 7      | Derivatives of Exponential & Inverse Trig Functions        |                                    |
-|        | Local Linear Approximation                                 |                                    |
-|        |                                                            |                                    |
-| 8      | Related Rates                                              | **Fri. 11/15: EXAM 2**             |
-|        | L'Hôpital's Rule                                           | Last day to withdraw               |
-|        |                                                            |                                    |
-| 9      | Analysis of Functions Pt. 1                                | Tue. 11/26                         |
-|        | Analysis of Functions Pt. 2                                | Thanksgiving holiday begins (10pm) |
-|        |                                                            |                                    |
-| 10     | Absolute Extrema                                           |                                    |
-|        |                                                            |                                    |
-| 11     | Applied Max-Min Problems                                   |                                    |
-|        |                                                            |                                    |
-| Finals | The Final Exam schedule will be announced by the registrar |                                    |
+| Week   | Topics                                                     | Notes                                 |
+| ------ | ---------------------------------------------------------- | ------------------------------------- |
+| 1      | Intuitive Approach to Limits                               | Mon. 9/23:                            |
+|        | Computing Limits                                           | Classes Begin                         |
+|        |                                                            |                                       |
+| 2      | Limits at Infinity                                         | Mon. 9/30:                            |
+|        | Continuity                                                 | Last day to add/drop                  |
+|        | Limits & Continuity of Trig Functions                      |                                       |
+|        |                                                            |                                       |
+| 3      | Tangent Lines & Rates of Change                            | Mon. 10/14:                           |
+|        | The Definition of the Derivative                           | University Holiday                    |
+|        |                                                            | Indigenous People's Day               |
+|        |                                                            |                                       |
+| 4      | Techniques of Differentiation                              | **Fri. 10/18: EXAM 1**                |
+|        | Product & Quotient Rules                                   |                                       |
+|        |                                                            |                                       |
+| 5      | Derivatives of Trig Functions                              |                                       |
+|        | The Chain Rule                                             |                                       |
+|        |                                                            |                                       |
+| 6      | Implicit Differentiation                                   |                                       |
+|        | Derivatives of Logarithmic Functions                       |                                       |
+|        |                                                            |                                       |
+| 7      | Derivatives of Exponential & Inverse Trig Functions        | Tues. 11/5: Election Day (No Classes) |
+|        | Local Linear Approximation                                 |                                       |
+|        |                                                            |                                       |
+| 8      | Related Rates                                              | **Fri. 11/15: EXAM 2**                |
+|        | L'Hôpital's Rule                                           | Last day to withdraw                  |
+|        |                                                            |                                       |
+| 9      | Analysis of Functions Pt. 1                                | Tue. 11/26                            |
+|        | Analysis of Functions Pt. 2                                | Thanksgiving holiday begins (10pm)    |
+|        |                                                            |                                       |
+| 10     | Absolute Extrema                                           |                                       |
+|        |                                                            |                                       |
+| 11     | Applied Max-Min Problems                                   |                                       |
+|        |                                                            |                                       |
+| Finals | The Final Exam schedule will be announced by the registrar |                                       |
 
