@@ -50,11 +50,7 @@ Each module contains summaries of core ideas related to that module's theme, fur
 > **Core Ideas**  
 > - [[The Laboratory of Self-Inquiry]]
 > - [[Socrates Origin Story and Overcoming Self-Deception]]
-> 	- [The Euthydemus](https://www.gutenberg.org/files/1598/1598-h/1598-h.htm)
-> 	- [Short video from BBC4 "Know Thyself"](https://www.youtube.com/watch?v=zccoaL0stbM) 
 > - [[Forms of Self-Deception]] 
-> 	- [NYU Stern Video: Jonathan Haidt: Change the Path, Not the Rider](https://www.youtube.com/watch?v=x3z8brCtMk8)
-> 	- [The Happiness Hypothesis](https://www.happinesshypothesis.com/index.html)
 > - [[The Dialectic of Meditation and Contemplation]]
 > 
 > **In-Class Activities**
@@ -68,8 +64,6 @@ Each module contains summaries of core ideas related to that module's theme, fur
 > [!abstract]- MODULE 2: Beginner's Mind
 > **Core Ideas**
 > - [[Beginner's Mind]] 
-> 	- [[content/assets/zenmind_prologue.pdf|Prologue to Zen Mind Beginner's Mind]] 
-> 	- [TED Talk: The Psychology of Your Future Self](https://www.youtube.com/watch?v=XNbaR54Gpj4&pp=ygULZGFuIGdpbGJlcnQ%3D) 
 > - [[Mindfulness as Training in Beginners Mind]] 
 > - [[Divergent Thinking]]  
 > - [[Zorba and the Old Man]]  
@@ -87,8 +81,6 @@ Each module contains summaries of core ideas related to that module's theme, fur
 > [!abstract]- MODULE 3: Having Mode vs. Being Mode
 >  **Core Ideas** 
 > - [[Erich Fromm on Having vs Being]]  
-> 	- [[content/assets/Fromm-Having-Being-Ch1.pdf|Chapter 1 of To Have or To Be]] 
-> 	- [*Philosophize This!* podcast episode #150: Fromm on Love](https://www.philosophizethis.org/podcast/episode-150-the-frankfurt-school-erich-fromm-on-love)
 > - [[Healthy Authenticity Scale]]  
 > 
 > **In-Class Activities**
@@ -106,16 +98,9 @@ Each module contains summaries of core ideas related to that module's theme, fur
 > [!abstract]- MODULE 4: Knowledge
 >  **Core Ideas**
 >  - [[The Allegory of the Cave]] 
-> 	- [After Skool Video: The Profound Meaning of Plato's Allegory of the Cave](https://www.youtube.com/watch?v=4nHj3gL_JN0&t=4s&pp=ygUMcGxhdG8ncyBjYXZl "The Profound Meaning of Plato's Allegory of the Cave") 
-> - [[Beyond Propositional Knowledge]]
-> 	- [Types of Knowledge](https://helpfulprofessor.com/types-of-knowledge/)
-> 	- [What is constructivism?](https://www.youtube.com/watch?v=WduUwOHZES0) 
+> - [[Beyond Propositional Knowledge]] 
 > - [[Qualia and Consciousness]]
-> 	- ["What is it like to be a bat?" by Thomas Nagel](https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf)
-> 	- [*Philosophize This!* Podcast Episode #179](https://www.philosophizethis.org/podcast/episode-179-consciousness-hard-problem)
 > - [[Self-Knowledge]] 
-> 	- [Short video from BBC4 "Know Thyself"](https://www.youtube.com/watch?v=zccoaL0stbM) 
-> 	- [Psyche Article: "How to think about consciousness"](https://psyche.co/guides/how-to-think-about-consciousness-from-a-philosophical-viewpoint)
 > 
 > **In-Class Activities**
 > - [[Meditation on Thoughts]] 
