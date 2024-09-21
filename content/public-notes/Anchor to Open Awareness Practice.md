@@ -1,1 +1,3 @@
+**📻 Recording:** [Spotify](https://open.spotify.com/episode/0imXM3avR31PSQCoXAI1F1?si=c0689984179d4fcd) [Apple Podcasts](https://podcasts.apple.com/us/podcast/insight-lab/id1745592714?i=1000655554764) 
+
 In this meditation, we're going to start with an anchor to find some settling and stability in the mind. Then we'll move into an open awareness practice in which we simply sit, allowing whatever arises to arise, letting go of everything, including our anchor. 

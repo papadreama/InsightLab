@@ -1,5 +1,5 @@
 ## Six Anchors
-https://spotifyanchor-web.app.link/e/bBXxDtTcGJb
+**📻 Recording:** [Spotify](https://open.spotify.com/episode/3RRbxGbWnCqAS19aatZgZi?si=bd5204b1694f49da) [Apple Podcasts](https://podcasts.apple.com/us/podcast/insight-lab/id1745592714?i=1000655109149) 
 
 ### Overview
 Mindfulness is ultimately about letting everything be just as it is. Most of us live highly distracted lives. Our school work, our jobs, our social lives all make demands on our attention. There’s a lot of talk about this today, with concerns about the effects that our technologies have on our minds, but distraction is not new. If it were, contemplative and meditative traditions from thousands of years ago probably wouldn’t have placed so much emphasis on concentration practices!

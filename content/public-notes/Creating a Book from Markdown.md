@@ -1,6 +1,4 @@
 
-
-# Creating a Book from Markdown
 Create a [[YAML]] file. In my case, `title.txt`: 
 
 ```yaml
@@ -72,4 +70,7 @@ documentclass: report
 ```
 
 
-
+## Resources + Tools
+- [Flavio's Method](https://flaviocopes.com/how-to-create-ebooks-markdown/) using [Honkit](https://github.com/honkit/honkit) + GitHub
+- [Pandoc Documentation](https://pandoc.org/epub.html) 
+- 
