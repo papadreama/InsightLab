@@ -21,7 +21,7 @@ One of the simplest, though not necessarily easiest, such tests is to simply sit
 
 > “If you want to understand your mind, sit down and observe it.” - Munindra
 
-Easier said than done! As the famous mathematician Blaise Pascal put it, "“All of humanity's problems, stem from man's **inability to sit quietly in a room alone**.” When we first try to sit and observe the mind, we notice that it isn't so easy. It's as if the mind has a mind of its own. 
+Easier said than done! As the famous mathematician Blaise Pascal put it, "All of humanity's problems, stem from man's **inability to sit quietly in a room alone**.” When we first try to sit and observe the mind, we notice that it isn't so easy. It's as if the mind has a mind of its own. 
 
 Fortunately, many of the practices we'll be experimenting with have been in use for thousands of years. Modern psychology, cognitive science, and neuroscience have shed a lot of light on how and why those practices work and the sorts of changes they can catalyze in the practitioner. 
 

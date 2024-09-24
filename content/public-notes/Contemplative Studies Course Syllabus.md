@@ -73,10 +73,9 @@ Below is an outline of the course. You'll find summaries of the core concepts an
 - The Nine Dot Problem
 - Six Anchors Meditation
 - The Well Meditation
-- Mindful Eating
 
 #### Home Practices   
-- **Mindful Eating:** Eat slowly and mindfully without any distractions (no phone, laptop, book, etc.). Bring your whole self to the meal.
+- **Mindful Eating (optional growth challenge):** Eat slowly and mindfully without any distractions (no phone, laptop, book, etc.). Bring your whole self to the meal.
 - **Novel observations of everyday experiences.** 
 - **Journal:** Spend 15 - 20 minutes summarizing your experience with the practices listed above as well as any reflections on any of the readings and/or class discussions. 
 

@@ -1,7 +1,7 @@
 ---
 title: Erich Fromm on Having vs Being
 draft: 
-metadata: 
+metadata: true
 tags:
 ---
 Erich Fromm was a psychologist, psychoanalyst, and philosopher writing during the middle of the 20th century. One of his most influential concepts was his distinction between the *having mode* and the *being mode.* These modes describe orientations toward life, work, education, relationships, and the self. 

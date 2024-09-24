@@ -1,3 +1,9 @@
+---
+title: Healthy Authenticity Scale
+draft: 
+metadata: true
+tags:
+---
 This set of questions comes out of [Scott Barry Kaufman's](https://scottbarrykaufman.com) book *[Transcend](https://scottbarrykaufman.com/books/transcend/).*[^1] 
 
 Kaufman describes healthy authenticity (B-authenticity) as authenticity that helps you become a whole person. It involves "understanding, accepting, and taking responsibility for your whole self as a route to personal growth and meaningful relationships." Where unhealthy authenticity (D-authenticity) 

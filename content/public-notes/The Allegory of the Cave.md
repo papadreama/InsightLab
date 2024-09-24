@@ -6,6 +6,7 @@ tags:
   - knowledge
   - wisdom
   - ignorance
+metadata: true
 ---
 Plato's allegory of the cave is about the emergence from ignorance into enlightenment (knowledge/wisdom). It is a story about a group of people, isolated from birth in a cave, bound so that they can see little of their surroundings save for a cave wall. Upon that wall, shadows, created by people/beings behind a wall, move about.
 

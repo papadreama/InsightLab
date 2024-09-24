@@ -102,15 +102,16 @@ Dimitri Papadopoulos (he/him/his)
 ---
 
 ### Resources
-- Practice problems on [Drexel Calculus page](https://www.math.drexel.edu/classes/Calculus/index.html) 
-- [Online textbook](https://wealldomath.com) 
-	- Notes and exercises with detailed solutions
-	- Handwritten notes (💀 skeleton notes and completed notes)
-		- 🚫 **Don't waste time in class copying every word or taking pictures of every page.**
-		- 🤔 Class time is for thinking, asking questions, doing problems
-- MRC
+
++ Practice problems on [Drexel Calculus page](https://www.math.drexel.edu/classes/Calculus/index.html) 
++ [Online textbook](https://wealldomath.com) 
+	+ Notes and exercises with detailed solutions
+	+ Handwritten notes (💀 skeleton notes and completed notes)
+		+ 🚫 **Don't waste time in class copying every word or taking pictures of every page.**
+		+ 🤔 Class time is for **thinking**, **asking** questions, **doing** problems
++ MRC
 	- Open MTWR 10am - 7pm & F 10am - 4pm
-- CLASS
++ CLASS
 	- Peer tutors
 	- Academic coaching
 

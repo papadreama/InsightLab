@@ -1,7 +1,7 @@
 ---
 title: Beyond Propositional Knowledge
 draft: 
-metadata: 
+metadata: true
 tags:
 ---
 

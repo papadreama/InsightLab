@@ -8,6 +8,8 @@ metadata: true
 
 > [!todo] Course Materials
 > [[Schedule for Ten Week Contemplative Studies Course|Here's the schedule]] for the ten-week version of this course I'll be teaching Fall 2024. You can also view the [[Contemplative Studies Course Syllabus|full syllabus here]]. 
+>
+> You can copy this [this Google Doc](https://docs.google.com/document/d/1F5b_iWudedufB3XNLhehSzL8WVa73MVJzFY1raN5odI/edit?usp=sharing) and use it to keep all of your reflections in one place. 
 
 ## Overview
 This course is designed for students to explore and develop a personal ecology of contemplative practices aimed at integrating their academic and professional journeys with their personal values and aspirations. Through a comprehensive curriculum that blends theory, practice, and reflection, students will critically examine their values, motivations, mental models, and habits of mind. 
@@ -69,12 +71,11 @@ Each module contains summaries of core ideas related to that module's theme, fur
 > - [[Zorba and the Old Man]]  
 > 
 > **In-Class Activities**
-> - [[Mindful Eating]]  
 > - [[Six Anchors Meditation]]
 > - [[The Well Meditation]] 
 > 
 > **Home Practices**
-> - [[Mindful Eating]] 
+> - [[Mindful Eating]] (Optional Growth Challenge)
 > - [[Novel Observations of Everyday Experiences]] 
 > - **Journal:** Spend 15 - 20 minutes summarizing your experience with the practices listed above as well as any reflections on any of the readings and/or class discussions. 
  
@@ -218,7 +219,4 @@ Each module contains summaries of core ideas related to that module's theme, fur
 > - [[Mattering Purpose and Coherence Map]]  
 > - [[Sketching a Personal Ecology of Practices]]
 > - **Journal:** Reflect on which practices, ideas, and activities resonated the most for you.
-
-
-
 

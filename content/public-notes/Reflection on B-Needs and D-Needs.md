@@ -12,8 +12,7 @@ Maslow's actual position was that human development is much more dynamic. We're 
 
 Scott Barry Kaufman offers an alternative model and visual aid: that of a boat at sea. Life is more like a vast ocean than a trek up a mountain. We navigate life in a sailboat. The boat itself is what keeps us afloat. If we sink, we aren't sailing. Once we can stay afloat, our sail keeps us moving. It's also worth noting that we can't change course if we aren't moving. 
 
-![[SBKTranscendBoat.jpeg]]
-
+[![](https://i0.wp.com/scottbarrykaufman.com/wp-content/uploads/2021/04/TranscendBoat.jpg?resize=1200%2C618&ssl=1)](https://i0.wp.com/scottbarrykaufman.com/wp-content/uploads/2021/04/TranscendBoat.jpg?ssl=1)
 ## Reflection
 Take some time to identify the describe what, for you, makes up each layer or component of the sailboat.
 - Which are B-needs and which are D-needs?
