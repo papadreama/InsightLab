@@ -101,7 +101,7 @@ Each module contains summaries of core ideas related to that module's theme, fur
 >  - [[The Allegory of the Cave]] 
 > - [[Beyond Propositional Knowledge]] 
 > - [[Qualia and Consciousness]]
-> - [[Self-Knowledge]] 
+> - [[content/public-notes/Self-Knowledge|Self-Knowledge]]
 > 
 > **In-Class Activities**
 > - [[Meditation on Thoughts]] 
