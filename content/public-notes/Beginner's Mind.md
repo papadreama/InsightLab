@@ -28,6 +28,8 @@ One answer to this question is [[Mindfulness as Training in Beginners Mind|mindf
 ## Further Reading
 - [[content/assets/zenmind_prologue.pdf|Prologue to Zen Mind Beginner's Mind]] 
 - [TED Talk: The Psychology of Your Future Self](https://www.youtube.com/watch?v=XNbaR54Gpj4&pp=ygULZGFuIGdpbGJlcnQ%3D) 
+
+
 - For a deeper dive into the concept of beginner's mind in Zen and Early Buddhism, check out [Doug's Dharma](https://www.youtube.com/watch?v=fw0fPc0r0O0) 
 
 
@@ -35,6 +37,10 @@ One answer to this question is [[Mindfulness as Training in Beginners Mind|mindf
 [^1]: *Suzuki, Shunryu. Zen Mind, Beginner's Mind: Informal Talks on Zen Meditation and Practice (p. 2). Shambhala. Kindle Edition.* 
  
 [^2]: See **Transcend** by Scott Barry Kauffman 
+
+---
+
+
 
 ---
 

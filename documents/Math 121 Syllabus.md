@@ -17,7 +17,7 @@ urlcolor: cyan
 
 **Email:** [dp399@drexel.edu](mailto:dp399@drexel.edu)
 
-**Notes and Other Resources:** https://wealldomath.com 
+**Notes and Other Resources:**** https://wealldomath.com 
 
 **Office:** Korman 224
 
@@ -75,7 +75,7 @@ The course grade will breakdown as follows:
 
 | Category             | Percentage |
 | -------------------- | ---------- |
-| WebWork              | 10%        |
+| WebWork   10%        |
 | Quizzes              | 15%        |
 | Midterms             | 25% each   |
 | Final                | 25%        |

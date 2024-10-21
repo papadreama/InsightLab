@@ -81,3 +81,6 @@ header-includes:
 ```
 
 
+## Resources
+- [Good video on integration with Zotero and workflow](https://youtu.be/zEYp0BJL7MU?si=IwvCtwvpaiUouL28) 
+
