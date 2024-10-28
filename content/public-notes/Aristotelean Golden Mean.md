@@ -100,12 +100,3 @@ Aristotle emphasized that finding the mean requires practical wisdom (phronesis)
 - [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/aristotle-ethics/)
 - [Philosophize This!](https://www.philosophizethis.org/podcast/aristotle-part-1-8z586)
 
-
-## Citations
-[1] https://www.mytutor.co.uk/answers/6325/A-Level/Religious-Studies/Explain-the-significance-of-the-Golden-Mean-in-relation-to-Aristotle-s-Virtue-Theory/
-[2] https://philosophybreak.com/articles/the-golden-mean-aristotle-guide-to-living-excellently/
-[3] https://clubztutoring.com/ed-resources/math/golden-mean-definitions-examples-6-7-2/
-[4] https://www.britannica.com/topic/golden-mean
-[5] https://www.reddit.com/r/askphilosophy/comments/dvcwgw/what_are_examples_of_the_golden_mean_of_virtue/
-[6] https://en.wikipedia.org/wiki/Golden_mean_(philosophy)
-
