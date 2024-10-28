@@ -13,4 +13,9 @@ As Thich Nhat Hanh puts it, "everything relies on everything else in the cosmos 
 Hanh says that "to be is to inter-be." This captures the Buddhist argument for the rejection of emptiness. Emptiness doesn't mean that things don't exist but that things lack an inherent, separate essence. Though emptiness can sound rather nihilistic or pessimistic, Hanh clarifies that this emptiness is really a fullness of potential. The empty cup is the cup that can be used to its fullest potential. 
 
 
+## Further Reading
+
+- [Talk: To Be Means to Inter-Be](https://www.youtube.com/watch?v=UuVqp4KmNWk)
+- [Talk: Through the Insight of Interbeing](https://www.youtube.com/watch?v=kuDSxr5qBT8) 
+- [Book: Interbeing: Fourteen Guidelines for Engaged Buddhism](https://www.amazon.com/Interbeing-Thich-Nhat-Hanh/dp/1888375086)
 
