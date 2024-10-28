@@ -90,7 +90,7 @@ What makes this a mindfulness practice is the orientation of curiosity we bring 
 	- It fosters self-compassion and reduces negative self-directed emotions[^4].
 
 
-Citations:
+## Citations
 [^1]: https://www.stresscoach.app/blog/7-powerful-reasons-to-try-loving-kindness-meditation/
 [^2]: https://www.mindful.org/18-science-based-reasons-to-try-loving-kindness-meditation/
 [^3]: https://pmc.ncbi.nlm.nih.gov/articles/PMC4630307/

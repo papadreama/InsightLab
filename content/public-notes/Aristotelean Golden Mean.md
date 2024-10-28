@@ -95,9 +95,13 @@ It's important to note that the mean is not always the exact middle point. For i
 
 Aristotle emphasized that finding the mean requires practical wisdom (phronesis) and is context-dependent. What counts as courageous action in one situation might be reckless in another. The goal is to cultivate the ability to judge and act appropriately in each unique circumstance.
 
-In your example of the school bully, the courageous action might be to seek help from a teacher or other authority figure, rather than directly intervening (which could be reckless) or ignoring the situation (which would be cowardly). This demonstrates how the Golden Mean isn't a simple mathematical average, but a nuanced judgment based on the specific situation.
 
-Citations:
+## Further Reading
+- [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/aristotle-ethics/)
+- [Philosophize This!](https://www.philosophizethis.org/podcast/aristotle-part-1-8z586)
+
+
+## Citations
 [1] https://www.mytutor.co.uk/answers/6325/A-Level/Religious-Studies/Explain-the-significance-of-the-Golden-Mean-in-relation-to-Aristotle-s-Virtue-Theory/
 [2] https://philosophybreak.com/articles/the-golden-mean-aristotle-guide-to-living-excellently/
 [3] https://clubztutoring.com/ed-resources/math/golden-mean-definitions-examples-6-7-2/
@@ -105,7 +109,3 @@ Citations:
 [5] https://www.reddit.com/r/askphilosophy/comments/dvcwgw/what_are_examples_of_the_golden_mean_of_virtue/
 [6] https://en.wikipedia.org/wiki/Golden_mean_(philosophy)
 
-
-## Further Reading
-- [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/aristotle-ethics/)
-- [Philosophize This!](https://www.philosophizethis.org/podcast/aristotle-part-1-8z586)
