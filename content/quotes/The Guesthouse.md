@@ -6,8 +6,7 @@ tags:
 type: quote/poem
 quote: This being human is a guesthouse.
 ---
-
-# The Guesthouse
+*by Rumi*
 
 This being human is a guest house.  
 Every day a new arrival.  
@@ -31,3 +30,4 @@ and invite them in.
 Be grateful for whoever comes,   
 because each has been sent   
 as a guide from beyond.  
+

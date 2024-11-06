@@ -62,30 +62,23 @@ What makes this a mindfulness practice is the orientation of curiosity we bring 
 	- A 7-week study showed increases in love, joy, contentment, gratitude, pride, hope, interest, amusement, and awe[^1].
 	- It can decrease depression and social anxiety[^1].
 	- A meta-analysis found medium effect sizes for increasing daily positive emotions[^3].
-
 2. Reduces stress and anxiety:
 	- A 2023 review found it significantly decreased burnout and stress[^4].
 	- It can reduce psychological distress[^2].
-
 3. Decreases pain:
 	- One session reduced migraine pain and tension by 33% and 43% respectively[^1].
 	- An 8-week program was more effective than standard care for chronic lower back pain[^1].
-
 4. Enhances social connection:
 	- It increases feelings of social connectedness and positivity toward strangers[^2].
 	- It strengthens empathy and compassion toward others[^1].
-
 5. Improves physical health:
 	- It's associated with longer telomeres, a biological marker of aging[^1].
 	- It increases vagal tone, which is linked to better physical health[^2].
-
 6. Reduces bias:
 	- Six weeks of practice decreased implicit bias against minorities[^2].
-
 7. Helps with mental health conditions:
 	- It reduced depression and PTSD symptoms in veterans[^2].
 	- It decreased negative symptoms in people with schizophrenia-spectrum disorders[^2].
-
 8. Promotes self-compassion:
 	- It fosters self-compassion and reduces negative self-directed emotions[^4].
 

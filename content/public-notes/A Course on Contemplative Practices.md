@@ -138,6 +138,7 @@ Each module contains summaries of core ideas related to that module's theme, fur
 >  **Core Ideas** 
 > - [[The Four Immeasurable Abodes]] 
 > - [[Aristotelean Golden Mean]] 
+> - [[Stoicism]]
 > 
 > **In-Class Activities**
 > - [[Caring Moment Practice]]

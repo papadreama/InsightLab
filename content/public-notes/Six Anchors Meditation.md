@@ -42,6 +42,11 @@ As you like, you might bring your attention the the sensations of the breath in 
 
 If you’ve been pulled away by a thought, a memory, a worry, or another bodily sensation, it’s no problem, just gently bring your awareness back to the feeling of your breath at your nostrils. (Repeat a few times).
 
+#### Visual Field
+Now we'll move onto the visual field. Even with eyes closed, there is still seeing. Gaze into the darkness behind your eyelids as if gazing into the night sky. You may notice variations in light and shadow. You may notice colors. Look without labeling. 
+
+Again, every time you catch yourself in a daydream, just notice it and then come back to the gaze. 
+
 #### Sounds
 If you’re ready, let go of the breath, and listen to the sounds in the room. You might pick a sound and rest your attention there, or just be open to the whole soundscape around us. See if you can listen without labeling or analyzing the sounds you hear. 
 

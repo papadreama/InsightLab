@@ -14,9 +14,9 @@ For Aristotle, what's needed to live a good life is an appreciation for the ways
 2. It isn't desirable for the sake of some other good - it isn't a means to some other end.
 3. Whatever else we consider *good* must be good is necessarily desirable for the sake of that highest good.
 
-This highest good was called *eudaemonia* - the highest form of flourishing or wellbeing. Health, wealth, and all other goods are subordinate in that they promote eudaemonia. 
+This highest good was called *eudaimonia* - the highest form of flourishing or wellbeing. Health, wealth, and all other goods are subordinate in that they promote eudaimonia. 
 
-To resolve the question of what eudaemonia consists in, Aristotle posed a question: what is the *ergon* (function, task, work) of a human being is. Looking to biology for an answer, he argued that, for any creature, eudaemonia must be a matter of actualizing their unique ergon. Take a bird, for example. We might say that a bird's unique ergon is its capacity for flight. On Aristotle's view, a bird's eudaemonia must be tied to its unique ergon, its unique capacity to fly (and to sing). 
+To resolve the question of what eudaimonia consists in, Aristotle posed a question: what is the *ergon* (function, task, work) of a human being is. Looking to biology for an answer, he argued that, for any creature, eudaimonia must be a matter of actualizing their unique ergon. Take a bird, for example. We might say that a bird's unique ergon is its capacity for flight. On Aristotle's view, a bird's eudaimonia must be tied to its unique ergon, its unique capacity to fly (and to sing). 
 
 As the poem "Caged Bird" by Maya Angelou goes, 
 
@@ -39,9 +39,9 @@ As the poem "Caged Bird" by Maya Angelou goes,
 > for the caged bird   
 > sings of freedom.
 
-Of course, this poem really speaks to the human condition, representing the confinement and oppression Angelou felt as a Black woman in America. We might say that freedom is integral to our human eudaemonia. 
+Of course, this poem really speaks to the human condition, representing the confinement and oppression Angelou felt as a Black woman in America. We might say that freedom is integral to our human eudaimonia. 
 
-For Aristotle, the ergon of the human being is the capacity for reason. It is what sets us apart from the rest of the animal kingdom. So happiness, flourishing, eudaemonia, must consist in using reason well over the course of a full, virtuous life. 
+For Aristotle, the ergon of the human being is the capacity for reason. It is what sets us apart from the rest of the animal kingdom. So happiness, flourishing, eudaimonia, must consist in using reason well over the course of a full, virtuous life. 
 ## The Golden Mean
 
 According to Aristotle, virtues are character traits that enable human flourishing. The Golden Mean helps define these virtues by positioning them between extremes:

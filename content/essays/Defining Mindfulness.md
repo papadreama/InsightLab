@@ -156,7 +156,7 @@ Similarly, Dryden and Still (2006) say
 > chosen 'self-possession' as the best translation in English. (p. 18)
 
 They go on to say that mindfulness is one of the most difficult words in
-Buddhist psychology to translate. Beyond mindfulness and remembrance,
+Buddhist psychology to translate. Beyond mindfulness as remembrance,
 the variety of translations and descriptions of sati also includes
 *awareness, bare attention, and presence*.
 
