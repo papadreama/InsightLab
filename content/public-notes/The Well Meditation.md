@@ -7,7 +7,7 @@ To begin, we sit quietly to settle in. We might focus on the breath or some othe
 - Invite to settle in
 - Give a moment to pay attention to the breath and or body
 - Imagine leaning over edge of a well with a pebble in hand
-	- We're going to work with a question: Why are you hear?
+	- We're going to work with a question: Why are you here?
 	- You hold it out over the well and drop it in
 	- You hear it splash
 	- What comes up for you in that moment - the moment of the splash

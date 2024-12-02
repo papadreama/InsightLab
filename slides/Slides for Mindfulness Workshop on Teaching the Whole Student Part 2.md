@@ -1,3 +1,16 @@
+---
+title: Slides for Mindfulness Workshop on Teaching the Whole Student Part 2
+theme: css/serif.css
+transition: slide
+---
+## Recap
+
+- Sati $\approx$ Remembrance ("Lucid awareness of the phenomenal field")
+- Paying attention, on purpose, in the present moment, non-judgmentally
+- No expectation of perfect concentration
+	- The moment we notice we're lost in thought is the moment of mindfulness
+
+---
 ## Overview
 
 - Opening practice: working with the breath
@@ -13,30 +26,23 @@
 
 ## Mindfulness as an Orientation
 
-- Turning curiosity inward
-- Beginner's Mind
-- Coordinating intention, attention, attitude
-- Being versus having
-- (Self-)Compassion
-- Dialectic 
-
----
-
-### Turning our Curiosity Inward
-
-+ Taking the curiosity we typically point outward in exploring our respective disciplines and turning inward
-	+ Erich Fromm: Reason applied outward is science; reason applied inward is introspection
-	+ We privilege the objective over the subjective 
-		+ Critical subjectivity
-+ **Self-knowledge** in the Socratic sense: not an autobiography but an operating manual
-	+ Overcoming self-deception
++ Not just a once-a-day habit
+	+ 45 minutes of exercise doesn't undo the effects of an unhealthy, sedentary lifestyle
+	+ 10 minutes of meditation doesn't undo the effects of a unhealthy, distracted lifestyle
++ Balance between "manualized" and "non manualized"
++ Some qualities of mindfulness as an orientation
+	+ Beginner's Mind
+	+ Coordinating intention, attention, attitude
+	+ Being versus having
+	+ (Self-)Compassion
+	+ Dialectic 
 
 ---
 
 ### Beginner's Mind
 
 + *Zen Mind, Beginner's Mind:* **"In the beginner's mind there are many possibilities, but in the expert's there are few."** (Suzuki, 2020)
-	+ Unbridled curiosity + cognitive flexibility
+	+ Curiosity and wonder
 + Langer's definition: **the simple act of actively noticing new things.**
 	+ Overlaps with research on self-actualization: *continued freshness of experience*
 + Goethe: **"Every object well-contemplated opens a new organ of perception in us."**
@@ -48,7 +54,7 @@
 
 ### Coordinating Intention, Attention, and Attitude
 
-+ **Intention**: D. H. Shapiro found that "as meditators continue to practice, their intentions shift, along a continuum from self regulation, to self exploration, and finally to self liberation."
++ **Intention**: D. H. Shapiro found that "as meditators continue to practice, their intentions shift, along a continuum from self-regulation, to self-exploration, and finally to self-liberation." 
 + **Attitude**: Non-judgmental
 	+ Neither pushing away what is unpleasant nor grasping onto what is pleasant
 	+ Doesn't mean non-discerning
@@ -63,7 +69,7 @@
 ### Not a deficiency mindset
 
 + Fromm's being-mode rather than having-mode
-+ Zen: you're perfect just as you are, and you could use a little improvement
++ Zen: "you're perfect just as you are, and you could use a little improvement"
 + There's no bad meditation
 	+ The moment you notice you've become distracted is the moment of mindfulness
 	+ All objects of attention are permissible
@@ -74,7 +80,7 @@
 
 + When we start to see with greater clarity the way our mind's operate, we won't always like what we find. 
 + It's easy to get frustrated by our inability to stop the proliferation of distracting thoughts
-+ In practice, we cultivate this by first noticing the tendency to judge: good, bad, too distracted, too tired, too anxious, too annoyed, too impatient. 
++ In practice, we cultivate this by first noticing the tendency to judge: good, bad, distracted, tired, anxious, annoyed, impatient. 
 	+ We notice with a greater sense of openness, and some distance: "there is distraction" or "there is impatience" or "there is annoyance"
 + **A cup of salt in a pint of water vs. a cup of salt in a reservoir** 
 	+ Through the practice of non-judgmental observation of our minds, we start to find space
@@ -86,13 +92,14 @@
 
 ![[integration-disintegration.png|300]]
 
++ Dis-integration: taking off our glasses and looking *at* the lenses
++ Re-integration: putting our glasses back on and looking *through* them
 
 ---
 
 ## Discussion 
 
 - We discussed several aspects of the orientation of mindfulness
-	- Turning curiosity inward
 	- Beginner's Mind
 	- Coordinating intention, attention, attitude
 	- Being versus having
@@ -106,7 +113,7 @@
 
 ## Mindful Communication Practice
 
-### Prompt: *"Talk about a small success you’ve had in your teaching recently, and why it mattered to you."* 
+### Prompt: *"What’s something you’re currently learning about yourself through teaching?"* 
 - **Round 1:** Partner A answers the prompt while Partner B listens mindfully.  
    - The speaker should explore their thoughts and feelings openly.  
    - The listener maintains soft eye contact, nodding or acknowledging with presence but without verbal response or interruption.  
@@ -116,11 +123,52 @@
 
 ## Mindfulness & Pedagogy
 
-+ Four qualities of a mindfulness teacher: 
-	+ **Stewardship:** 
-	+ **Guidance:**
-	+ **Invitation:**
-	+ **Inquiry:**
+Four qualities of a mindfulness teacher 
+
++ **Stewardship:** creating and caring for a space in which students feel safe and a sense of belonging
++ **Guidance:** connection, not performance, in guiding meditations/practices/activities
++ **Invitation:** talking *with* the group; delivering information in a way that invites into the conversation
++ **Inquiry:** genuine curiosity/wonder about students' experience
+
+---
+
+### The Pedagogy is the Practice
+
++ Each of these characteristics of the pedagogy of mindfulness is a practice of mindfulness in itself
+	+ E.g., guidance is not performative in the sense that one is practicing as they guide
++ Effective mindfulness teaching requires the instructor to embody the very qualities and practices they are teaching
++ **Congruence**: There should be alignment between what is taught and how it is taught.
++ **Transparency**: The teacher's own journey with mindfulness, including challenges, becomes part of the learning process.
+
+---
+
+### Laboratory Model
+
++ Distinguishing between *structure* and *control*
++ Encouraging experimentation
++ We provide the tools, safety measures, protocols
++ Student conduct the experiments (on/with their own subjective experiences)
++ Analysis and reflection
+
+---
+
+### More Explicit Means
+
++ In STEM, we know that stress/anxiety is a huge hurdle for students
+	+ Bringing students' attention to the mechanisms by which stress operates
+	+ Having students reflect on how they work with that stress in their studies
+	+ Scaffolding assignments and materials with effective learning techniques
++ Including opportunities for reflection
+	+ Surveying students about how they approach their work
+	+ Mindfulness inventories can be adapted to learning objectives
+
+---
+
+
+## Mindfulness Scales
+
+- The Philadelphia Mindfulness Scale (PHLMS) focuses on two key components of mindfulness: awareness and acceptance
+- The Five Factor Mindfulness Questionnaire (FFMQ) focuses on five: observing, describing, acting with awareness, non-judging, non-reactivity
 
 ---
 

@@ -3,19 +3,35 @@ title: Wonder Activity
 fontfamily: Cormorant Garamond
 toc: "true"
 ---
-
-
+\newpage
 
 ## Thought Experiments
 
-### Ship of Theseus 
+### Instructions
+In your groups, take some time to look over the selection of philosophical thought experiments below, and choose one for your group to discuss. The goal here is not to come to some *correct* analysis of the thought experiment but to see what it sparks in you and why. 
+
+Below, I've included some questions to help guide your discussion. The goal is not to answer all of these questions, but to *question the answers you come up with.*
+
+1. What assumptions or beliefs does this thought experiment challenge? How does it make you reconsider your existing views?
+2. If you could modify one aspect of the scenario, what would you change and how would that alter the philosophical implications?
+3. What emotional or intuitive reactions does this thought experiment evoke for you? Why do you think you had that response?
+4. How might different cultural or historical perspectives approach this scenario differently? 
+5. What real-world situations or ethical dilemmas does this thought experiment remind you of? How does it illuminate those real issues?
+6. What further questions or thought experiments does this scenario inspire you to consider? How could you extend or build upon it?
+7. How does this thought experiment relate to fundamental questions about human nature, consciousness, morality, or the nature of reality?
+8. How might advances in science or technology in the coming decades impact the premises or implications of this thought experiment?
+9. What insights does this scenario offer about the limits of human knowledge or understanding? What aspects remain fundamentally mysterious?
+
+### Selection of Thought Experiments
+
+#### Ship of Theseus 
 If a ship’s parts are to be replaced over time, is it still the same ship?
 
 The **Ship of Theseus**, one of the well-known philosophical thought experiments, raises questions about the nature of identity and continuity over time. In the paradox, the question is whether a ship that has had all its components replaced throughout time is still the same.
 
----
+\newpage
 
-### The Trolley Car Problem
+#### The Trolley Car Problem
 Would you sacrifice one person to save many people?
 
 ![](https://i0.wp.com/adarshbadri.me/wp-content/uploads/2024/04/1600px-Trolley_Problem.svg_.png?resize=1200%2C410&ssl=1)
@@ -24,10 +40,12 @@ Would you sacrifice one person to save many people?
 
 You’re standing next to a tram track, watching as a runaway tram approaches five people who are chained to the track and unable to escape. However, if you notice a nearby lever, the tram would be diverted onto a different track, killing the person connected to that track in its place. What do you do?
 
+\vfill
+
 ---
 
-
-### The Chinese Room
+\vfill
+#### The Chinese Room
 Can a machine understand or mimic language?
 
 In **The Chinese Room** thought experiment, the question of whether a machine can genuinely understand language or merely mimic it. This experiment is as follows.
@@ -38,9 +56,11 @@ A person from outside passes a note to him written in Chinese. The person inside
 
 Do knowledge and intellect come from simply adhering to rules and manipulating symbols or if something deeper in human consciousness enables us to comprehend language?
 
----
+\vfill
 
-### The Experience Machine
+\newpage
+
+#### The Experience Machine
 Would you plug into a machine that gives a perfect life simulation, not real experiences?
 
 This philosophical thought experiments is as follows: Imagine there exists a machine that can simulate perfect life experiences, where one can feel and experience anything they desire without suffering any consequences.
@@ -49,7 +69,7 @@ They couldn’t tell the difference between the simulation and the real world si
 
 ---
 
-### The Sorites Paradox
+#### The Sorites Paradox
 At what point does a small change in quantity lead to a change in quality?
 
 **The Sorites Paradox** is one of the philosophical thought experiments which ventures into the nature of limits and how we define them. Here is how it follows:
@@ -62,7 +82,7 @@ Put another way: when you eat a sandwich, when does the sandwich stop being a sa
 
 ---
 
-### Mary's Room
+#### Mary's Room
 Is there more to conscious experience than just physical processes in the brain?
 
 
@@ -76,7 +96,21 @@ After being let out of the room one day, she notices a red apple. Despite never 
 
 ## Poetry
 
-### Lost
+### Instructions
+In your groups, take some time to look over the selection of poetry below, and choose one poem for the group to discuss. The goal here is not to come to some *correct* analysis of the poem but to see what it sparks in you and why. 
+
+Below, I've included some questions to help guide your discussion. The goal is not to answer all of these questions, but to *question the answers you come up with.*
+
+1. What images or sensory details in the poem stand out to you most vividly? Why do you think those particular details captured your attention?
+2. What emotions or feelings does the poem evoke for you? Are there any lines that particularly resonate with your own experiences?
+3. What questions does this poem raise for you about life, nature, human relationships, or the world around us? 
+4. Are there any lines or phrases that surprise you or make you see something familiar in a new way? What makes them surprising or illuminating?
+5. What connections can you draw between this poem and your own life or the wider world? Does it remind you of anything you've experienced or observed?
+6. What do you think the poet was wondering about or marveling at when they wrote this poem? What sense of awe or curiosity comes through in their words?
+7. If you could add another stanza or line to this poem to extend its sense of wonder, what would you write?
+
+### Poetry Selection
+#### Lost
 _by David Wagoner_
 
 Stand still. The trees ahead and bushes beside you  
@@ -92,8 +126,9 @@ If what a tree or a bush does is lost on you,
 You are surely lost. Stand still. The forest knows  
 Where you are. You must let it find you.  
 
+\vfill
 
-### I Love the Dark Horse of My Being
+#### I Love the Dark Hours of My Being
 by Rainer Marie Rilke
 
 I love the dark hours of my being.
@@ -116,7 +151,9 @@ a dream once lost
 among sorrows and songs.  
 
 
-### The Holy Longing
+\vfill
+
+#### The Holy Longing
 by Johann W. Von Goethe, translated by Robert Bly   
 
 Tell a wise person, or else keep silent,  
@@ -139,8 +176,10 @@ you are the butterfly and you are gone.
 And so long as you haven't experienced this: to die and so to grow,  
 you are only a troubled guest on the dark earth.  
 
+\vfill
 
-### Wild Geese by Mary Oliver
+#### Wild Geese 
+by Mary Oliver  
 
 You do not have to be good.  
 You do not have to walk on your knees  
@@ -161,7 +200,9 @@ calls to you like the wild geese, harsh and exciting -
 over and over announcing your place  
 in the family of things.  
 
-### I Go Among the Trees
+\vfill
+
+#### I Go Among the Trees
 by Wendell Berry
 
 
@@ -189,7 +230,9 @@ I hear my song at last,
 and I sing it. As we sing,  
 the day turns, the trees move.
 
-### No Hay Camino 
+\newpage
+
+#### No Hay Camino 
 by Antonio Machado
 
 Caminante, son tus huellas  
@@ -216,7 +259,7 @@ Traveler, there is no road;
 only a ship's wake on the sea.
 
 
-### The Snow Man
+#### The Snow Man
 by Wallace Stevens
 
 One must have a mind of winter  

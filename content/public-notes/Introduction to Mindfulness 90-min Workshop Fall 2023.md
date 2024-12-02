@@ -21,8 +21,6 @@ After our discussion of mindfulness, I'll provide a quick overview of the three 
 | Practice #3: Chose Your Own Anchor        | 10 - 15 Minutes |
 | Closing Discussion and Q & A              | 10              |
 
-If needed, I can cut the third practice short (or altogether).
-
 ## Opening Practice of Silence
 ### Guidance Script
 Let's take a few moments to sit in silence together. You don't have to do anything in particular - there's no special way that you need to sit, breathe, think, or feel. Just sit, with your eyes closed if you like, and observe whatever you observe. 

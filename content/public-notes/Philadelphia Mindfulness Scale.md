@@ -1,8 +1,11 @@
 ---
-fontsize: 11pt
+title: Philadelphia Mindfulness Scale
+draft: 
+metadata: 
+tags:
+  - mindfulness
+  - research
 ---
-
-## Scale
 
 | **Item Number** | **Item Statement**                                                                                | **Subscale**             |
 | --------------- | ------------------------------------------------------------------------------------------------- | ------------------------ |
@@ -29,11 +32,9 @@ fontsize: 11pt
 
 ## Scoring
 
-All items of the awareness subscale are written in a positively keyed direction, so no reverse
-scoring is required.
+All items of the awareness subscale are written in a positively keyed direction, so no reverse scoring is required.
 
-All items of the acceptance subscale are written in a negatively keyed direction, thus reverse
-scoring is required.
+All items of the acceptance subscale are written in a negatively keyed direction, thus reverse scoring is required.
 
 The items belong to two subscales:
 
